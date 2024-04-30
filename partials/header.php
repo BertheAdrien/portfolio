@@ -54,29 +54,22 @@
 			<div class="top-menu">
 				<div class="row">
 					<div class="col-xs-2">
-						<div id="fh5co-logo"><a href="index.php">Adrien Berthe<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="acceuil.php">Adrien Berthe<span>.</span></a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
                             <?php
                             $currentPage = basename($_SERVER['PHP_SELF']); // Obtenez le nom de la page actuelle
                             ?>
-							<li <?php if ($currentPage == 'acceuil.php') echo 'class="active"'; ?>><a href="acceuil.php">Acceuil</a></li>
+							<li <?php if ($currentPage == 'index.php') echo 'class="active"'; ?>><a href="index.php">Acceuil</a></li>
 							<li <?php if ($currentPage == 'entreprise.php') echo 'class="active"'; ?>><a href="entreprise.php">Entreprise</a></li>
                             <li <?php if ($currentPage == 'veille.php') echo 'class="active"'; ?>><a href="veille.php">Veille</a></li>
-                            <li class="has-dropdown"><a href="travaux.php">Travaux</a>
-								<ul class="dropdown">
-									<li><a href="#">Sapin</a></li>
-								</ul>
-                                <li class="has-dropdown"><a href="projets.php">Projets</a>
-								<ul class="dropdown">
-									<li><a href="sapin.php">Sapin</a></li>
-								</ul>
+                            <li <?php if ($currentPage == 'travaux.php') echo 'class="active"'; ?>><a href="travaux.php">Travaux</a>
+                            <li <?php if ($currentPage == 'projets.php') echo 'class="active"'; ?>><a href="projets.php">Projets</a>
 							<li <?php if ($currentPage == 'contact.php') echo 'class="active"'; ?>><a href="contact.php">Répertoire</a></li>
 						</ul>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 	</nav>

@@ -1,5 +1,5 @@
 
-<?php include('header.php'); ?>
+<?php include('partials/header.php'); ?>
 	<div class="container">
 		<div id="fh5co-intro">
 			<div class="row animate-box">
@@ -48,7 +48,8 @@
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
 	</div>
-	<?php include('footer.php'); ?>
+	<?php include('partials/footer.php'); ?>
+	<?php include('partials/script.php'); ?>
 
 </html>
 
