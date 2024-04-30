@@ -37,7 +37,6 @@
 						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
 					</ul>
 				</div>
-
 			</div>
 
 			<div class="row copyright">

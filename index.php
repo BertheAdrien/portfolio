@@ -6,82 +6,25 @@
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Bienvenu sur mon PortFolio <span><em>by</em> <a href="http://freehtml5.co">FreeHTML5.co</a></span></h2>
-            </div>
+                <h2>Bienvenu sur mon Portfolio </h2>
+				<h3>A propos de moi :</h3>
+				<p> Actuellement en BTS SIO option SLAM, je vous propose sur ce portfolio de découvrir mes travaux et mes projets professionnels que j'ai pu entreprendre au sein de ma carrière. Passioné d'informatique et de nouvelles technologies depuis très jeune, j'ai décidé de me lancer dans des études d'informatique dans l'objectif de devenir développeur. Retrouvez mon CV ci-dessous.            </div>
         </div>
     </div>
-    <aside id="fh5co-hero">
-        <div class="flexslider">
-            <ul class="slides">
-               <li style="background-image: url(images/img_bg_1.jpg);">
-                   <div class="overlay"></div>
-                   <div class="container-fluid">
-                       <div class="row">
-                           <div class="col-md-6 col-xs-8 col-md-offset-1 slider-text">
-                               <div class="slider-text-inner">
-                                   <h1><a href="#">Best showcase for architecture</a></h1>
-                                    <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-               </li>
-               <li style="background-image: url(images/img_bg_2.jpg);">
-                   <div class="overlay"></div>
-                   <div class="container-fluid">
-                       <div class="row">
-                           <div class="col-md-6 col-xs-8 col-md-offset-1 slider-text">
-                               <div class="slider-text-inner">
-                                   <h1><a href="#">Best showcase for architecture</a></h1>
-                                    <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-               </li>
-               <li style="background-image: url(images/img_bg_3.jpg);">
-                   <div class="overlay"></div>
-                   <div class="container-fluid">
-                       <div class="row">
-                           <div class="col-md-6 col-xs-8 col-md-offset-1 slider-text">
-                               <div class="slider-text-inner">
-                                   <h1><a href="#">Best showcase for architecture</a></h1>
-                                    <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-               </li>
-               <li style="background-image: url(images/img_bg_4.jpg);">
-                   <div class="overlay"></div>
-                   <div class="container-fluid">
-                       <div class="row">
-                           <div class="col-md-6 col-xs-8 col-md-offset-1 slider-text">
-                               <div class="slider-text-inner">
-                                   <h1><a href="#">Best showcase for architecture</a></h1>
-                                    <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-               </li>	   	
-              </ul>
-          </div>
-    </aside>
-    <div id="fh5co-portfolio">
+
+	<div id="fh5co-portfolio">
         <div class="row nopadding">
             <div class="col-md-6 padding-right">
                 <div class="row">
                     <div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-1.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+					<a href="images/cvDL.pdf" target="_blank" class="portfolio-grid">
+                        <img src="images/cvPng.png" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
                             <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
+                                <h3>Télécharger le CV </h3>
                             </div>
-                        </a>
-                    </div>
-                    <div class="col-md-12 animate-box">
+                    </a>
+                </div>
+				<div class="col-md-12 animate-box">
                         <a href="single.html" class="portfolio-grid">
                             <img src="images/portfolio-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
                             <div class="desc">
@@ -90,69 +33,18 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-5.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-                            <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
-                            </div>
-                        </a>
-                    </div>
-                    
-                </div>
-            </div>
-
-            <div class="col-md-6 padding-left">
+			</div>
+        </div>
+		<div class="col-md-6 padding-left">
                 <div class="row">
                     <div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-2.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-                            <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
-                            </div>
-                        </a>
+                        <div class="desc">
+                            <h3>Présentation du BTS SIO SLAM</h3>
+                            <span>Le BTS SIO (Services Informatiques aux Organisations) option Solutions Logicielles et Applications Métiers (SLAM) forme des professionnels capables de concevoir, développer et maintenir des applications informatiques adaptées aux besoins des entreprises. Cette formation met l'accent sur la programmation, le développement d'applications, la gestion de bases de données et les technologies web, préparant ainsi les étudiants à intégrer rapidement le monde professionnel en tant que développeurs ou analystes programmeurs.</span>
+                        </div>
                     </div>
-                    <div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-3.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-                            <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-6.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-                            <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-7.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-                            <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
-                            </div>
-                        </a>
-                    </div>
-
-                </div>
-            </div>
+				</div>
         </div>
-    </div>
-</div><!-- END container -->
-
-
-<div class="gototop js-top">
-    <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
-</div>
 
 	<?php include('partials/footer.php'); ?>
 	<?php include('partials/script.php'); ?>
