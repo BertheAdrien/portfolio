@@ -1,5 +1,7 @@
-<div class="fh5co-loader"></div>
+<?php include('header.php'); ?>
 
+
+<div class="fh5co-loader"></div>
 <div class="container">
     <div id="fh5co-intro">
         <div class="row animate-box">
@@ -151,3 +153,5 @@
 <div class="gototop js-top">
     <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
 </div>
+
+<?php include('footer.php'); ?>

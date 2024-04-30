@@ -1,6 +1,5 @@
-<?php include('header.php'); ?>
 
-<!DOCTYPE HTML>
+<?php include('header.php'); ?>
 	<div class="container">
 		<div id="fh5co-intro">
 			<div class="row animate-box">

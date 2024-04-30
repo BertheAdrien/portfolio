@@ -61,7 +61,7 @@
                             <?php
                             $currentPage = basename($_SERVER['PHP_SELF']); // Obtenez le nom de la page actuelle
                             ?>
-							<li <?php if ($currentPage == 'index.php') echo 'class="active"'; ?>><a href="index.php">Acceuil</a></li>
+							<li <?php if ($currentPage == 'acceuil.php') echo 'class="active"'; ?>><a href="acceuil.php">Acceuil</a></li>
 							<li <?php if ($currentPage == 'entreprise.php') echo 'class="active"'; ?>><a href="entreprise.php">Entreprise</a></li>
                             <li <?php if ($currentPage == 'veille.php') echo 'class="active"'; ?>><a href="veille.php">Veille</a></li>
                             <li class="has-dropdown"><a href="travaux.php">Travaux</a>
