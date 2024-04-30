@@ -9,20 +9,6 @@
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
 	<meta name="author" content="freehtml5.co" />
 
-	<!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
-
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -75,9 +61,18 @@
                             <?php
                             $currentPage = basename($_SERVER['PHP_SELF']); // Obtenez le nom de la page actuelle
                             ?>
-							<li <?php if ($currentPage == 'index.php') echo 'class="active"'; ?>><a href="index.php">Portfolio</a></li>
-							<li <?php if ($currentPage == 'single.php') echo 'class="active"'; ?>><a href="single.php">Single</a></li>
-							<li <?php if ($currentPage == 'contact.php') echo 'class="active"'; ?>><a href="contact.php">Contact</a></li>
+							<li <?php if ($currentPage == 'index.php') echo 'class="active"'; ?>><a href="index.php">Acceuil</a></li>
+							<li <?php if ($currentPage == 'entreprise.php') echo 'class="active"'; ?>><a href="entreprise.php">Entreprise</a></li>
+                            <li <?php if ($currentPage == 'veille.php') echo 'class="active"'; ?>><a href="veille.php">Veille</a></li>
+                            <li class="has-dropdown"><a href="travaux.php">Travaux</a>
+								<ul class="dropdown">
+									<li><a href="#">Sapin</a></li>
+								</ul>
+                                <li class="has-dropdown"><a href="projets.php">Projets</a>
+								<ul class="dropdown">
+									<li><a href="sapin.php">Sapin</a></li>
+								</ul>
+							<li <?php if ($currentPage == 'contact.php') echo 'class="active"'; ?>><a href="contact.php">Répertoire</a></li>
 						</ul>
 					</div>
 				</div>
