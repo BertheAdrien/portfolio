@@ -6,9 +6,12 @@
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Bienvenu sur mon Portfolio </h2>
+                <h2>Bienvenue sur mon Portfolio </h2>
 				<h3>A propos de moi :</h3>
-				<p> Actuellement en BTS SIO option SLAM, je vous propose sur ce portfolio de découvrir mes travaux et mes projets professionnels que j'ai pu entreprendre au sein de ma carrière. Passioné d'informatique et de nouvelles technologies depuis très jeune, j'ai décidé de me lancer dans des études d'informatique dans l'objectif de devenir développeur. Retrouvez mon CV ci-dessous.            </div>
+				<p> Apres quelques années à avoir travaillé dans le monde de la grande distribution, j'ai décidé de me lancer dans un domaine qui me plaisait vraiment.  Passionné d'informatique et de nouvelles technologies depuis très jeune, je me suis donc embarqué dans un BTS SIO SLAM pour accroitre mes connaissances et relever de nouveaux défis. Investi et curieux, je n'hésites pas a demander de l'aide mais aussi donner mon avis sur les différents travaux que l'on peut réaliser durant ces années d'études. 
+                <p>Ce portfolio est réalisé dans le cadre de ma formation du BTS SIO à l'ESPL d'Angers.
+
+            </div>
         </div>
 		<ul class="fh5co-social-icons reseaux">
 			<li><a href="#"><i class="icon-github"></i></a></li>

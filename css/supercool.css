@@ -17,3 +17,13 @@ body {
     display : flex;
     justify-content: center;    
 }
+
+.img-responsive{
+    max-width: 85%;
+}
+
+.cgi {
+    margin-left: 0px;
+    margin-right: 0px;
+
+}

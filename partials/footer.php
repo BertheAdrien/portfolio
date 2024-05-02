@@ -4,11 +4,12 @@
 		<footer id="fh5co-footer" role="contentinfo">
 			<div class="row">
 				<div class="col-md-3 fh5co-widget">
-					<h4>About Carbon</h4>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+					<h4>information</h4>
+					<li><a href="#">Mentions légales</a></li>
+					<li><a href="#">un truc </a></li>
 				</div>
 				<div class="col-md-3 col-md-push-1">
-					<h4>Latest Projects</h4>
+					<h4>Derniers Projets</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="#">JBC Stadium</a></li>
 						<li><a href="#">T-Mobile Arena</a></li>
@@ -33,7 +34,7 @@
 					<h4>Contact</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="tel://0769130331">+ 0769130331</a></li>
-						<li><a href="berthe.adrien@yahoo.fr">info@yoursite.com</a></li>
+						<li><a href="berthe.adrien@yahoo.fr">berthe.adrien@yahoo.fr</a></li>
 					</ul>
 				</div>
 			</div>
@@ -41,8 +42,7 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block">&copy; 2024 Adrien Berthe. All Rights Reserved.</small> 
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
