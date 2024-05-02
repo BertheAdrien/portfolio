@@ -10,7 +10,13 @@
 				<h3>A propos de moi :</h3>
 				<p> Actuellement en BTS SIO option SLAM, je vous propose sur ce portfolio de découvrir mes travaux et mes projets professionnels que j'ai pu entreprendre au sein de ma carrière. Passioné d'informatique et de nouvelles technologies depuis très jeune, j'ai décidé de me lancer dans des études d'informatique dans l'objectif de devenir développeur. Retrouvez mon CV ci-dessous.            </div>
         </div>
+		<ul class="fh5co-social-icons reseaux">
+			<li><a href="#"><i class="icon-github"></i></a></li>
+			<li><a href="#"><i class="icon-linkedin"></i></a></li>
+		</ul>	
     </div>
+			
+
 
 	<div id="fh5co-portfolio">
         <div class="row nopadding">
@@ -24,15 +30,6 @@
                             </div>
                     </a>
                 </div>
-				<div class="col-md-12 animate-box">
-                        <a href="single.html" class="portfolio-grid">
-                            <img src="images/portfolio-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-                            <div class="desc">
-                                <h3>Dublin Arena Architect Project</h3>
-                                <span>Building, Arena</span>
-                            </div>
-                        </a>
-                    </div>
 			</div>
         </div>
 		<div class="col-md-6 padding-left">

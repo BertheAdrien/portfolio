@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+    body:before, body:after {
+      display: none;
+    }
+  }
+@media screen and (max-width: 768px) {
+body {
+    border-left: none;
+    border-right: none;
+}
+}
+
+.reseaux li a i {
+    font-size: 95px;
+}
+.reseaux{
+    display : flex;
+    justify-content: center;    
+}

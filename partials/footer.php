@@ -18,23 +18,22 @@
 				</div>
 
 				<div class="col-md-3 col-md-push-1">
-					<h4>Links</h4>
+					<h4>Liens</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Work</a></li>
-						<li><a href="#">Services</a></li>
-						<li><a href="#">Blog</a></li>
-						<li><a href="#">About us</a></li>
+					<li <?php if ($currentPage == 'index.php') echo 'class="active"'; ?>><a href="index.php">Acceuil</a></li>
+							<li <?php if ($currentPage == 'entreprise.php') echo 'class="active"'; ?>><a href="entreprise.php">Entreprise</a></li>
+                            <li <?php if ($currentPage == 'veille.php') echo 'class="active"'; ?>><a href="veille.php">Veille</a></li>
+                            <li <?php if ($currentPage == 'travaux.php') echo 'class="active"'; ?>><a href="travaux.php">Travaux</a>
+                            <li <?php if ($currentPage == 'projets.php') echo 'class="active"'; ?>><a href="projets.php">Projets</a>
+							<li <?php if ($currentPage == 'contact.php') echo 'class="active"'; ?>><a href="contact.php">Répertoire</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-3">
-					<h4>Contact Information</h4>
+					<h4>Contact</h4>
 					<ul class="fh5co-footer-links">
-						<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
+						<li><a href="tel://0769130331">+ 0769130331</a></li>
+						<li><a href="berthe.adrien@yahoo.fr">info@yoursite.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -47,10 +46,8 @@
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-github"></i></a></li>
 							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
 						</ul>
 					</p>
 				</div>
