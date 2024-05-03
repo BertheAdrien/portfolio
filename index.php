@@ -14,8 +14,8 @@
             </div>
         </div>
 		<ul class="fh5co-social-icons reseaux">
-			<li><a href="#"><i class="icon-github"></i></a></li>
-			<li><a href="#"><i class="icon-linkedin"></i></a></li>
+			<li><a href="https://github.com/BertheAdrien" target="_blank"><i class="icon-github"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/adrien-berthe-a80647218/" target="_blank"><i class="icon-linkedin"></i></a></li>
 		</ul>	
     </div>
 			
@@ -36,15 +36,23 @@
 			</div>
         </div>
 		<div class="col-md-6 padding-left">
-                <div class="row">
-                    <div class="col-md-12 animate-box">
-                        <div class="desc">
-                            <h3>Présentation du BTS SIO SLAM</h3>
-                            <span>Le BTS SIO (Services Informatiques aux Organisations) option Solutions Logicielles et Applications Métiers (SLAM) forme des professionnels capables de concevoir, développer et maintenir des applications informatiques adaptées aux besoins des entreprises. Cette formation met l'accent sur la programmation, le développement d'applications, la gestion de bases de données et les technologies web, préparant ainsi les étudiants à intégrer rapidement le monde professionnel en tant que développeurs ou analystes programmeurs.</span>
-                        </div>
-                    </div>
-				</div>
-        </div>
+            <div class="row">
+                <div class="col-md-12 animate-box">
+                    <div class="desc">
+                        <h3>Environnement éducatif et professionnel</h3>
+                        <span>  
+                            <div class="col-md-12 animate-box">
+                                <a href="single.html" class="portfolio-grid">
+                                    <img src="images/logosio.png" class="img-responsive" style="border : 4px solid #F95959; border-radius: 14px " alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Présentation de la formation</h3>
+                            </div>
+                        </span></a>         
+                    </div>  
+                </div>
+            </div>
+	    </div>
+    </div>
 
 	<?php include('partials/footer.php'); ?>
 	<?php include('partials/script.php'); ?>

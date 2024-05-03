@@ -46,8 +46,8 @@
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-github"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/BertheAdrien" target="_blank"><i class="icon-github"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/adrien-berthe-a80647218/" target="_blank"><i class="icon-linkedin"></i></a></li>
 						</ul>
 					</p>
 				</div>
