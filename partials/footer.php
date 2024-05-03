@@ -3,10 +3,12 @@
 <div class="container">
 		<footer id="fh5co-footer" role="contentinfo">
 			<div class="row">
-				<div class="col-md-3 fh5co-widget">
-					<h4>information</h4>
-					<li><a href="#">Mentions légales</a></li>
-					<li><a href="#">un truc </a></li>
+			<div class="col-md-3 col-md-push-1">
+					<h4>Informations</h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Mentions légales</a></li>
+
+					</ul>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h4>Derniers Projets</h4>

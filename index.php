@@ -42,17 +42,37 @@
                         <h3>Environnement éducatif et professionnel</h3>
                         <span>  
                             <div class="col-md-12 animate-box">
-                                <a href="single.html" class="portfolio-grid">
-                                    <img src="images/logosio.png" class="img-responsive" style="border : 4px solid #F95959; border-radius: 14px " alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                                <a href="btssio.php" class="portfolio-grid">
+                                    <img src="images/logosio.png" class="img-responsive link-index" style="border : 4px solid #F95959; border-radius: 14px " alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
                             <div class="desc">
                                 <h3>Présentation de la formation</h3>
                             </div>
                         </span></a>         
                     </div>  
                 </div>
+                
             </div>
-	    </div>
-    </div>
+            </div>
+            </div>
+            <div class="col-md-6 padding-left">
+            <div class="row">
+                <div class="col-md-12 animate-box">
+                    <div class="desc">
+                        <span>  
+                            <div class="col-md-12 animate-box">
+                                <a href="entreprise.php" class="portfolio-grid">
+                                    <img src="images/CGIlogo.png" class="img-responsive link-index" style="border : 4px solid #F95959; border-radius: 14px " alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Présentation de mon entreprise</h3>
+                            </div>
+                        </span></a>         
+                    </div>  
+                </div>
+                </div>   
+            </div>
+            </div>
+            
+            </div>
 
 	<?php include('partials/footer.php'); ?>
 	<?php include('partials/script.php'); ?>
