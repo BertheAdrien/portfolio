@@ -16,13 +16,9 @@
 						<h2>Dublin Stadium</h2>
 						<span>Architectural Design</span>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius. </p>
-						
+						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius. </p>	
 					</div>
 				</div>
-
-
-				
 			</div>
 		</div>
 	</div><!-- END container-wrap -->
@@ -32,5 +28,3 @@
 	</div>
 	<?php include('partials/footer.php'); ?>
 	<?php include('partials/script.php'); ?>
-
-

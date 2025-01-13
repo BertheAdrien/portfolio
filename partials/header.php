@@ -19,9 +19,12 @@
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:300,400" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400i" rel="stylesheet">
+
 	
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -37,6 +40,7 @@
 	<link rel="stylesheet" href="css/style.css">
 
 	<link rel="stylesheet" href="css/supercool.css">
+	<link rel="stylesheet" href="css/test.css">
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -67,10 +71,9 @@
 							<li <?php if ($currentPage == 'btssio.php') echo 'class="active"'; ?>><a href="btssio.php">BTS SIO</a></li>
 							<li <?php if ($currentPage == 'entreprise.php') echo 'class="active"'; ?>><a href="entreprise.php">Entreprise</a></li>
                             <li <?php if ($currentPage == 'veille.php') echo 'class="active"'; ?>><a href="veille.php">Veille</a></li>
-                            <li <?php if ($currentPage == 'travaux.php') echo 'class="active"'; ?>><a href="travaux.php">Travaux</a>
-							<li <?php if ($currentPage == 'projets.php') echo 'class="active"'; ?>><a href="projets.php">Projets</a>
+							<li <?php if ($currentPage == 'realisations.php') echo 'class="active"'; ?>><a href="realisations.php">Réalisations</a>
 							<li <?php if ($currentPage == 'competences.php') echo 'class="active"'; ?>><a href="competences.php">Compétences</a>
-							<li <?php if ($currentPage == 'repertoire.php') echo 'class="active"'; ?>><a href="contact.php">Répertoire</a></li>
+							<li <?php if ($currentPage == 'synthese.php') echo 'class="active"'; ?>><a class="synthese-boutton;" href="synthese.php">Tableau de Synthèse</a></li>
 						</ul>
 					</div>
 				</div>

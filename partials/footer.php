@@ -6,8 +6,7 @@
 			<div class="col-md-3 col-md-push-1">
 					<h4>Informations</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Mentions légales</a></li>
-
+						<li><a href="mentionslegale.php">Mentions légales</a></li>
 					</ul>
 				</div>
 				<div class="col-md-3 col-md-push-1">
@@ -26,7 +25,7 @@
 					<li <?php if ($currentPage == 'index.php') echo 'class="active"'; ?>><a href="index.php">Acceuil</a></li>
 							<li <?php if ($currentPage == 'entreprise.php') echo 'class="active"'; ?>><a href="entreprise.php">Entreprise</a></li>
                             <li <?php if ($currentPage == 'veille.php') echo 'class="active"'; ?>><a href="veille.php">Veille</a></li>
-                            <li <?php if ($currentPage == 'travaux.php') echo 'class="active"'; ?>><a href="travaux.php">Travaux</a>
+                            <li <?php if ($currentPage == 'missions.php') echo 'class="active"'; ?>><a href="missions.php">Missions</a>
                             <li <?php if ($currentPage == 'projets.php') echo 'class="active"'; ?>><a href="projets.php">Projets</a>
 							<li <?php if ($currentPage == 'contact.php') echo 'class="active"'; ?>><a href="contact.php">Répertoire</a></li>
 					</ul>
@@ -35,6 +34,7 @@
 				<div class="col-md-3">
 					<h4>Contact</h4>
 					<ul class="fh5co-footer-links">
+						<li>31 Rue de Bellevue 72380 La Guierche</li>
 						<li><a href="tel://0769130331">+ 0769130331</a></li>
 						<li><a href="berthe.adrien@yahoo.fr">berthe.adrien@yahoo.fr</a></li>
 					</ul>

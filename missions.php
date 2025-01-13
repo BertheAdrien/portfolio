@@ -5,7 +5,7 @@
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Mes travaux </h2>
+                <h2>Mes Missions</h2>
             </div>
         </div>
     </div>
