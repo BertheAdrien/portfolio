@@ -1,30 +1,104 @@
 <?php include('partials/header.php'); ?>
 
-	<div class="container">
-		<div id="fh5co-intro">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 col-md-pull-2">
-					<h2>Veille</h2>
-				</div>
-			</div>
-		</div>
-		<div id="fh5co-portfolio">
-			<div class="row">
 
-				<div class="col-md-4 col-md-push-8 sticky-parent">
-					<div class="animate-box">
-						<h2>Dublin Stadium</h2>
-						<span>Architectural Design</span>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius. </p>	
-					</div>
-				</div>
-			</div>
-		</div>
-	</div><!-- END container-wrap -->
+<div class="fh5co-loader"></div>
+<div class="container">
+    <div id="fh5co-intro">
+        <div class="row animate-box">
+            <div class="col-md-8 col-md-offset-2 col-md-pull-2">
+                <h2>Mes sujets de veille</h2>
+            </div>
+        </div>
+    </div>
+    <div id="fh5co-portfolio">
+        <div class="row nopadding">
+            <div class="col-md-6 padding-right">
+                <div class="row">
+                    <div class="col-md-12 animate-box ">
+                    <h1>Bases de données, SQL/Maria DB</h1>
+                        <a href="veilleSQL.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/Database-2-scaled-1-scaled.webp" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3></h3>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-12 animate-box">
+                    <h1>Welcome training</h1>
+                        <a href="projectWelcomeTraining.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/WelcomeTraining.PNG" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Outil de gestion de signatures</h3>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-12 animate-box">
+                    <h1>Welcome training</h1>
+                        <a href="projectWelcomeTraining.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/WelcomeTraining.PNG" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Outil de gestion de signatures</h3>
+                            </div>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
 
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
-	</div>
+            <div class="col-md-6 padding-left">
+                <div class="row">
+                <div class="col-md-12 animate-box">
+                    <h1>Moteurs graphiques</h1>
+                        <a href="veilleMoteurGraph.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/unityunreal.png" class="img-responsive"  alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-12 animate-box">
+                    <h1>Welcome training</h1>
+                        <a href="projectWelcomeTraining.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/WelcomeTraining.PNG" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Outil de gestion de signatures</h3>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-12 animate-box">
+                    <h1>Welcome training</h1>
+                        <a href="projectWelcomeTraining.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/WelcomeTraining.PNG" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Outil de gestion de signatures</h3>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-12 animate-box">
+                    <h1>Welcome training</h1>
+                        <a href="projectWelcomeTraining.php" class="portfolio-grid border border-dark rounded">  
+                            <img src="images/WelcomeTraining.PNG" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <div class="desc">
+                                <h3>Outil de gestion de signatures</h3>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- END container -->
+
+
+<div class="gototop js-top">
+    <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+</div>
+
 	<?php include('partials/footer.php'); ?>
 	<?php include('partials/script.php'); ?>
+
+
+
+
+

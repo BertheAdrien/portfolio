@@ -1,0 +1,117 @@
+```# Épreuve E5 - Portfolio - méthodo
+
+# Conseils généraux
+
+- Liens externes en target _blank
+- Site responsive
+- Liens internes au site fonctionnels
+- Utilisation d’un template (https://www.free-css.com/  https://themeforest.net/ par ex)
+- Bandeau cookies en JavaScript si cookies utilisés
+
+# Header & Footer
+
+- Header
+    - Accueil
+    - Entreprise
+    - Veille
+    - Projets (réalisés pour l’épreuve E6, 1 sous menu par projet)
+    - Missions (petits projets réalisés hors épreuve E6, 1 sous menu par mission)
+    - Domaine de compétences (= tableau de synthèse, 1 sous menu par compétence)
+    - Synthèse
+
+- Footer
+    - Coordonnées de contact
+    - Lien vers les réseaux sociaux (GitHub  + LinkedIn)
+    - Lien vers les mentions légales
+    - Plan du site
+    - Copyright
+    
+
+# Plan du site
+
+- Accueil
+- Entreprise (obligatoire)
+- BTS SIO (obligatoire)
+- Projets (obligatoire)
+- Mission (obligatoire)
+- Veille (obligatoire)
+- Compétences
+- Synthèse  (tableau obligatoire)
+- Mentions légales (obligatoire)
+- Contact
+- Page erreur 404 (obligatoire)
+- Page erreur 500 (obligatoire)
+
+# Structure des pages
+
+### Accueil
+
+- Présentation
+    - Courte description de soi
+    - Lien CV
+    - Lien LinkedIn
+    - Certifications obtenues si existantes
+- Environnement
+    - BTS SIO (description SISR et SLAM + répartition horaire des matières)
+    - Entreprise (présentation, chiffres clés, son rôle dans l’entreprise)
+
+### Veille
+
+- Définition, importance
+- Outils utilisés (agrégateurs de flux RSS, Twitter, YouTube, Google Alert)
+- Savoir argumenter sur la pertinence des sources (Twitter : comptes officiels technologies, du créateur, des employés…)
+- Sujets (lien vers 1 tableau récap/sujet sur les 2 ans)
+- Sources et résumés d’articles
+
+### Projets
+
+- **Titre + image** (screenshot du rendu final)
+- **Contexte** (besoin, cahier des charges, attendus/objectifs) :
+    - Personnel / Entreprise / École
+    - Date début - Date fin
+    - Si en entreprise : dans quel service
+    - Si à l’école : en quelle matière
+    - Contraintes (lesquelles, imposées par qui ?)
+- **Environnement technologique** :
+    - Outils (VSCode, Figma, XAMPP…)
+    - Sources d’apprentissage (Microlead, W3School, StackOverflow…)
+    - Particularités technologiques employées (Flexbox, Bootstrap, POO…)
+- **Tâches** :
+    - Ce qui a (réellement) été réalisé (ex : analyse maquette Figma, conception MCD…)
+    - Réalisé en équipe (avec qui ?) ou en autonomie
+- **Diagramme GANTT**
+- **Difficultés** rencontrées + **solutions** apportées
+- **Compétences** (tirées du tableau de synthèse : liste de celles couvertes et des sous compétences associées)
+- **Bilan personnel** (compétences acquises, améliorations possibles)
+- **Annexes**
+    - Liens vers les rendus en ligne
+    - Liens repos GitHub (/!\ repos publics + ReadMe propres /!\)
+    - Lien vers le cahier des charges
+    - Documents nécessaires à la réalisation du projet (lister les erreurs et leur résolution)
+    - Documentation technique et/ou fonctionnelle (/!\ pour E6 documentation technique et d’utilisation de l’application obligatoire /!\)
+
+### Missions
+
+Idem que pour les projets en plus concis, GANTT non nécessaire
+
+### Synthèse
+
+Lien vers le *Tableau de synthèse des réalisations professionnelles* obligatoire (2 points sur 20)
+
+### Compétences
+
+- Liste ces compétence
+- Liste des sous-compétences associées
+- Liste des projets associées
+    - Titre + lien vers le projet
+    - Liste des sous-compétences associées
+
+### Mentions légales
+
+- Introduction
+- Gestionnaire des publications du site
+- Directeur de publication & rôle dans société si professionnel
+- Créateur du site
+- Hébergeur (nom + adresse)
+- Crédits (photos, webdesign, template etc…)
+- Voir https://nkinformatique.com/legals.php```
