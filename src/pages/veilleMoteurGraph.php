@@ -1,4 +1,7 @@
-<?php include('partials/header.php'); ?>
+<?php
+$pageTitle = 'VeilleMoteurGraph - Adrien Berthe';
+?>
+
 <div class="container">
     <div id="fh5co-intro">
         <div class="row animate-box">
@@ -13,7 +16,7 @@
             <!-- Image de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="images/game_engines.png" class="img-responsive" alt="Unreal Engine et Unity Illustration">
+                    <img src="<?php echo asset('images/game_engines.png'); ?>" class="img-responsive" alt="Unreal Engine et Unity Illustration">
                 </div>
             </div>
         </div>
@@ -99,6 +102,8 @@
 
 </div><!-- END container-wrap -->
 
-<?php include('partials/footer.php'); ?>
-<?php include('partials/script.php'); ?>
+
+
 </html>
+
+

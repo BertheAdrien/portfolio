@@ -1,4 +1,7 @@
-<?php include('partials/header.php'); ?>
+<?php
+$pageTitle = 'Calculette Immobilière - Adrien Berthe';
+?>
+
 <div class="container">
     <div id="fh5co-intro">
         <div class="row animate-box">
@@ -23,10 +26,10 @@
 
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="images/calculettePret.png" class="img-responsive" alt="Calculette immobilière">
+                    <img src="<?php echo asset('images/calculettePret.PNG'); ?>" class="img-responsive" alt="Calculette immobilière">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="images/calculettePret2.png" class="img-responsive" alt="Interface de la calculette immobilière">
+                    <img src="<?php echo asset('images/calculettePret2.PNG'); ?>" class="img-responsive" alt="Interface de la calculette immobilière">
                 </div>
             </div>            
         </div>
@@ -63,10 +66,10 @@
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-				<li><strong><a href="competences.php">Travailler en mode projet</a></strong></li>
+				<li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
 				<p>Analyser les objectifs et les modalités d'organisation d'un projet
 				<br>Planifier les activités</p>
-				<li><strong><a href="competences.php">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
+				<li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
 				<p>Réaliser les tests d'intégration et d'acceptation d'un service
 				<br>Déployer un service
 				<br>Accompagner les utilisateurs dans la mise en place d'un service</p>	
@@ -100,6 +103,6 @@
 
 </div><!-- END container-wrap -->
 
-<?php include('partials/footer.php'); ?>
-<?php include('partials/script.php'); ?>
+
+
 </html>

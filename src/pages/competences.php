@@ -1,4 +1,7 @@
-<?php include('partials/header.php'); ?>
+<?php
+$pageTitle = 'Competences - Adrien Berthe';
+?>
+
 
 <div class="container">
     <div id="fh5co-intro">
@@ -41,14 +44,18 @@
         <?php 
         switch ($competence) {
             case "Travailler en mode projet":
-				echo '<a href="calculetteimo.php" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
-				echo '<br><a href="projectWelcomeTraining.php" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
+                echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 break;
             case "Mettre à disposition des utilisateurs un service informatique":
-                echo '<a href="calculetteimo.php" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                break;
+            case "Développer la présence en ligne de l'organisation":
+                echo 'Portfolio et autres projets web';
+                echo '<br><a href="?page=veille" style="color:#007BFF; text-decoration:underline;">Veille technologique</a>';
                 break;
             default:
-                echo 'Description détaillée ici...';
+                echo 'Description détaillée à venir...';
                 break;
         }
         ?>
@@ -67,6 +74,3 @@
         document.getElementById('popup-' + index).style.display = 'none';
     }
 </script>
-
-<?php include('partials/footer.php'); ?>
-<?php include('partials/script.php'); ?>

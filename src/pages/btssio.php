@@ -1,4 +1,7 @@
-<?php include('partials/header.php'); ?>
+<?php
+$pageTitle = 'Btssio - Adrien Berthe';
+?>
+
 
 
 <div class="fh5co-loader"></div>
@@ -19,7 +22,9 @@
 
 
 
-	<?php include('partials/footer.php'); ?>
-	<?php include('partials/script.php'); ?>
+	
+	
+
+
 
 

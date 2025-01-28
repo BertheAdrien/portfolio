@@ -1,4 +1,7 @@
-<?php include('partials/header.php'); ?>
+<?php
+$pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
+?>
+
 <div class="container">
     <div id="fh5co-intro">
         <div class="row animate-box">
@@ -26,13 +29,13 @@
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="images/WelcomeTrainingConnexion.png" class="img-responsive" alt="Interface de connexion">
+                    <img src="<?php echo asset('images/WelcomeTrainingConnexion.png'); ?>" class="img-responsive" alt="Interface de connexion">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="images/WelcomeTrainingAdmin.png" class="img-responsive" alt="Interface d'administration">
+                    <img src="<?php echo asset('images/WelcomeTrainingAdmin.png'); ?>" class="img-responsive" alt="Interface d'administration">
                 </div>
 				<div class="image-item animate-box">
-                    <img src="images/WelcomeTrainingSignature.png" class="img-responsive" alt="Interface d'administration">
+                    <img src="<?php echo asset('images/WelcomeTrainingSignature.png'); ?>" class="img-responsive" alt="Interface d'administration">
                 </div>
             </div>            
         </div>
@@ -67,14 +70,20 @@
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-				<li><strong>Travailler en mode projet</strong></li>
-				<p>Analyser les objectifs et les modalités d'organisation d'un projet
-				<br>Planifier les activités</p>
-				<li><strong>Mettre à disposition des utilisateurs un service informatique</strong></li>
-				<p>Réaliser les tests d'intégration et d'acceptation d'un service
-				<br>Déployer un service
-				<br>Accompagner les utilisateurs dans la mise en place d'un service</p>	
-			</ul>
+                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
+                <p>Analyser les objectifs et les modalités d'organisation d'un projet
+                <br>Planifier les activités
+                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
+
+                <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
+                <p>Réaliser les tests d'intégration et d'acceptation d'un service
+                <br>Déployer un service
+                <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
+
+                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
+                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
+                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
+            </ul>
         </div>
     </div>
 
@@ -92,6 +101,6 @@
 
 </div><!-- END container-wrap -->
 
-<?php include('partials/footer.php'); ?>
-<?php include('partials/script.php'); ?>
+
+
 </html>

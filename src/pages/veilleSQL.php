@@ -1,4 +1,7 @@
-<?php include('partials/header.php'); ?>
+<?php
+$pageTitle = 'VeilleSQL - Adrien Berthe';
+?>
+
 <div class="container">
     <div id="fh5co-intro">
         <div class="row animate-box">
@@ -13,7 +16,7 @@
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="images/database_intro.png" class="img-responsive" alt="Bases de données illustration">
+                    <img src="<?php echo asset('images/database_intro.png'); ?>" class="img-responsive" alt="Bases de données illustration">
                 </div>
             </div>
         </div>
@@ -82,6 +85,8 @@
 
 </div><!-- END container-wrap -->
 
-<?php include('partials/footer.php'); ?>
-<?php include('partials/script.php'); ?>
+
+
 </html>
+
+
