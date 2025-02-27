@@ -16,7 +16,7 @@ $pageTitle = 'VeilleSQL - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="<?php echo asset('images/database_intro.png'); ?>" class="img-responsive" alt="Bases de données illustration">
+                    <img src="public/assets/images/database_intro.png" class="img-responsive" alt="Bases de données illustration">
                 </div>
             </div>
         </div>

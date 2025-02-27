@@ -24,11 +24,11 @@ $pageTitle = 'Tableau de Synthèse - Adrien Berthe';
         <div class="row animate-box">
             <div class="col-md-12 text-center">
                 <div class="embed-responsive embed-responsive-16by9" style="height: 800px;">
-                    <iframe class="embed-responsive-item" src="<?php echo asset('pdf/synthesePDF.pdf'); ?>" width="100%" height="100%"></iframe>
+                    <iframe class="embed-responsive-item" src="public/assets/pdf/synthesePDF.pdf" width="100%" height="100%"></iframe>
                 </div>
                 <div class="mt-4">
-                    <a href="<?php echo asset('pdf/synthesePDF.pdf'); ?>" class="btn btn-primary" target="_blank" style="margin-top: 20px;">
-                        <i class="icon-download"></i> Télécharger le PDF
+                    <a href="public/assets/pdf/synthesePDF.pdf" class="btn btn-primary" target="_blank" style="margin-top: 20px;">
+                        <i class="icon-download"></i> Telecharger le PDF
                     </a>
                 </div>
             </div>

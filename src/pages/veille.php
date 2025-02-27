@@ -18,7 +18,7 @@ $pageTitle = 'Veille - Adrien Berthe';
                     <div class="col-md-12 animate-box ">
                     <h1>Bases de données, SQL/Maria DB</h1>
                         <a href="?page=veille-sql" class="portfolio-grid border border-dark rounded">  
-                            <img src="<?php echo asset('images/Database-2-scaled-1-scaled.webp'); ?>" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <img src="public/assets/images/Database-2-scaled-1-scaled.webp" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
                             <div class="desc">
                                 <h3></h3>
                             </div>
@@ -51,7 +51,7 @@ $pageTitle = 'Veille - Adrien Berthe';
                 <div class="col-md-12 animate-box">
                     <h1>Moteurs graphiques</h1>
                         <a href="?page=veille-moteur-graph" class="portfolio-grid border border-dark rounded">  
-                            <img src="<?php echo asset('images/unityunreal.png'); ?>" class="img-responsive"  alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+                            <img src="public/assets/images/unityunreal.png" class="img-responsive"  alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
                             <div class="desc">
                             </div>
                         </a>

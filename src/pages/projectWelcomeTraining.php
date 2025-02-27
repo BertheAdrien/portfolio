@@ -29,13 +29,13 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="<?php echo asset('images/WelcomeTrainingConnexion.png'); ?>" class="img-responsive" alt="Interface de connexion">
+                    <img src="public/assets/images/WelcomeTrainingConnexion.png" class="img-responsive" alt="Interface de connexion">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="<?php echo asset('images/WelcomeTrainingAdmin.png'); ?>" class="img-responsive" alt="Interface d'administration">
+                    <img src="public/assets/images/WelcomeTrainingAdmin.png" class="img-responsive" alt="Interface d'administration">
                 </div>
 				<div class="image-item animate-box">
-                    <img src="<?php echo asset('images/WelcomeTrainingSignature.png'); ?>" class="img-responsive" alt="Interface d'administration">
+                    <img src="public/assets/images/WelcomeTrainingSignature.png" class="img-responsive" alt="Interface d'administration">
                 </div>
             </div>            
         </div>

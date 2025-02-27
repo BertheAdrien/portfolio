@@ -18,7 +18,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                     <div class="col-md-12 animate-box ">
                     <h1>Calculette immobilière</h1>
                         <a href="?page=calculette-imo" class="portfolio-grid border border-dark rounded">  
-                            <img src="<?php echo asset('images/calculettePret.PNG'); ?>" class="img-responsive" alt="Calculette immobilière">
+                            <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
                             <div class="desc">
                                 <h3>Outil de gestion de taux de prêts immobiliers</h3>
                             </div>
@@ -33,7 +33,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="col-md-12 animate-box">
                     <h1>Welcome Training</h1>
                         <a href="?page=project-welcome-training" class="portfolio-grid border border-dark rounded">  
-                            <img src="<?php echo asset('images/WelcomeTraining.PNG'); ?>" class="img-responsive" alt="Projet Welcome Training">
+                            <img src="public/assets/images/WelcomeTraining.PNG" class="img-responsive" alt="Projet Welcome Training">
                             <div class="desc">
                                 <h3>Outil de gestion de signatures</h3>
                             </div>

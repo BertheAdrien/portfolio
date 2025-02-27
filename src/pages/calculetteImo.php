@@ -19,17 +19,17 @@ $pageTitle = 'Calculette Immobilière - Adrien Berthe';
                     <div class="image-item animate-box cgi">
                         <h2>Contexte</h2>
                         <p>Dans le cadre de ma deuxième année de BTS SIO, j'ai réalisé une <strong>calculette immobilière</strong> visant à simplifier le calcul des mensualités pour un prêt immobilier. Ce projet avait pour objectif de mettre en pratique mes compétences en développement web tout en apportant une solution utile et fonctionnelle dans le domaine de l'immobilier.</p>
-            			<p>L'application permet à l'utilisateur de calculer le montant de ses mensualités en fonction du montant emprunté, de la durée du prêt et du taux d'intérêt. C'est un outil accessible via une interface simple et intuitive.</p>
+            			<p>L'application permet à l'utilisateur de calculer le montant de ses mensualités en fonction du montant emprunté, de la durée du prête et du taux d'intérêt. C'est un outil accessible via une interface simple et intuitive.</p>
                     </div>    
                 </div>
             </div>
 
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="<?php echo asset('images/calculettePret.PNG'); ?>" class="img-responsive" alt="Calculette immobilière">
+                    <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="<?php echo asset('images/calculettePret2.PNG'); ?>" class="img-responsive" alt="Interface de la calculette immobilière">
+                    <img src="public/assets/images/calculettePret2.PNG" class="img-responsive" alt="Interface de la calculette immobilière">
                 </div>
             </div>            
         </div>
