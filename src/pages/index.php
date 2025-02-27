@@ -7,7 +7,7 @@ $pageTitle = "Accueil - Adrien Berthe";
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Bienvenue sur mon Portfolio TOTO </h2>
+                <h2>Bienvenue sur mon Portfolio</h2>
 				<h3>A propos de moi :</h3>
 				<p>Apres quelques années à avoir travaillé dans le monde de la grande distribution, j'ai décidé de me lancer dans un domaine qui me plaisait vraiment. Passionné d'informatique et de nouvelles technologies depuis très jeune, je me suis donc embarqué dans un BTS SIO SLAM pour accroitre mes connaissances et relever de nouveaux défis. Investi et curieux, je n'hésites pas a demander de l'aide mais aussi donner mon avis sur les différents travaux que l'on peut réaliser durant ces années d'études.</p>
                 <p>Ce portfolio est réalisé dans le cadre de ma formation du BTS SIO à l'ESPL d'Angers.</p>

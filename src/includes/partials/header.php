@@ -26,23 +26,23 @@
 	<link href="https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400i" rel="stylesheet">
 	
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="<?php echo asset('css/animate.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/animate.css'); ?>">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="<?php echo asset('css/icomoon.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/icomoon.css'); ?>">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="<?php echo asset('css/bootstrap.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/bootstrap.css'); ?>">
 	<!-- Flexslider  -->
-	<link rel="stylesheet" href="<?php echo asset('css/flexslider.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/flexslider.css'); ?>">
 	<!-- Theme style  -->
-	<link rel="stylesheet" href="<?php echo asset('css/style.css'); ?>">
-	<link rel="stylesheet" href="<?php echo asset('css/supercool.css'); ?>">
-	<link rel="stylesheet" href="<?php echo asset('css/test.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/style.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/supercool.css'); ?>">
+	<link rel="stylesheet" href="<?php echo asset('/css/test.css'); ?>">
 
 	<!-- Modernizr JS -->
-	<script src="<?php echo asset('js/modernizr-2.6.2.min.js'); ?>"></script>
+	<script src="<?php echo asset('/js/modernizr-2.6.2.min.js'); ?>"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
-	<script src="<?php echo asset('js/respond.min.js'); ?>"></script>
+	<script src="<?php echo asset('/js/respond.min.js'); ?>"></script>
 	<![endif]-->
 
 	</head>
