@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/src/includes/bootstrap.php';
+require_once __DIR__ . '/src/includes/config.php';
 
 // Router simple
 $page = clean_input($_GET['page'] ?? 'accueil');
