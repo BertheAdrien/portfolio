@@ -26,10 +26,10 @@ $pageTitle = 'Calculette Immobilière - Adrien Berthe';
 
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
+                    <img src="/public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="public/assets/images/calculettePret2.PNG" class="img-responsive" alt="Interface de la calculette immobilière">
+                    <img src="/public/assets/images/calculettePret2.PNG" class="img-responsive" alt="Interface de la calculette immobilière">
                 </div>
             </div>            
         </div>

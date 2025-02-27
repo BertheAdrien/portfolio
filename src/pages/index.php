@@ -24,7 +24,7 @@ $pageTitle = "Accueil - Adrien Berthe";
                 <div class="row">
                     <div class="col-md-12 animate-box">
 					    <a href="public/assets/images/cvDL.pdf" target="_blank" class="portfolio-grid">
-                            <img src="public/assets/images/cvPng.PNG" class="img-responsive" alt="CV Adrien Berthe">
+                            <img src="/public/assets/images/cvPng.PNG" class="img-responsive" alt="CV Adrien Berthe">
                             <div class="desc">
                                 <h3>Télécharger le CV</h3>
                             </div>
@@ -40,7 +40,7 @@ $pageTitle = "Accueil - Adrien Berthe";
                             <span>  
                                 <div class="col-md-12 animate-box">
                                     <a href="?page=btssio" class="portfolio-grid">
-                                        <img src="public/assets/images/logosio.png" class="img-responsive link-index" style="border: 4px solid #F95959; border-radius: 14px" alt="Logo BTS SIO">
+                                        <img src="/public/assets/images/logosio.png" class="img-responsive link-index" style="border: 4px solid #F95959; border-radius: 14px" alt="Logo BTS SIO">
                                         <div class="desc">
                                             <h3>Présentation de la formation</h3>
                                         </div>
@@ -58,7 +58,7 @@ $pageTitle = "Accueil - Adrien Berthe";
                             <span>  
                                 <div class="col-md-12 animate-box">
                                     <a href="?page=entreprise" class="portfolio-grid">
-                                        <img src="public/assets/images/CGIlogo.png" class="img-responsive link-index" style="border: 4px solid #F95959; border-radius: 14px" alt="Logo CGI">
+                                        <img src="/public/assets/images/CGIlogo.png" class="img-responsive link-index" style="border: 4px solid #F95959; border-radius: 14px" alt="Logo CGI">
                                         <div class="desc">
                                             <h3>Présentation de mon entreprise</h3>
                                         </div>

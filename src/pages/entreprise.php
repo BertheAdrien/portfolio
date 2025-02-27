@@ -29,13 +29,13 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 
 				<div class="col-md-7 col-md-pull-4 image-content">
 					<div class="image-item  animate-box">
-						<img src="public/assets/images/cgi-building-montreal.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+						<img src="/public/assets/images/cgi-building-montreal.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 					</div>
 					<div class="image-item  animate-box">
-						<img src="public/assets/images/map-geospatial-network.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+						<img src="/public/assets/images/map-geospatial-network.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 					</div>
 					<div class="image-item  animate-box">
-						<img src="public/assets/images/un-ecran-cobol.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+						<img src="/public/assets/images/un-ecran-cobol.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 					</div>
 				</div>			
 			</div>
