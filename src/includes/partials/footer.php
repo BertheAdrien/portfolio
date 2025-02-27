@@ -62,14 +62,14 @@
 </div>
 
 <!-- jQuery -->
-<script src="<?php echo asset('js/jquery.min.js'); ?>"></script>
+<script src="public/assets/js/jquery.min.js"></script>
 <!-- jQuery Easing -->
-<script src="<?php echo asset('js/jquery.easing.1.3.js'); ?>"></script>
+<script src="public/assets/js/jquery.easing.1.3.js"></script>
 <!-- Bootstrap -->
-<script src="<?php echo asset('js/bootstrap.min.js'); ?>"></script>
+<script src="public/assets/js/bootstrap.min.js"></script>
 <!-- Waypoints -->
-<script src="<?php echo asset('js/jquery.waypoints.min.js'); ?>"></script>
+<script src="public/assets/js/jquery.waypoints.min.js"></script>
 <!-- Flexslider -->
-<script src="<?php echo asset('js/jquery.flexslider-min.js'); ?>"></script>
+<script src="public/assets/js/jquery.flexslider-min.js"></script>
 <!-- Main -->
-<script src="<?php echo asset('js/main.js'); ?>"></script>
+<script src="public/assets/js/main.js"></script>
