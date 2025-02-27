@@ -2,7 +2,6 @@
 $pageTitle = "Accueil - Adrien Berthe";
 ?>
 
-<div class="fh5co-loader"></div>
 <div class="container">
     <div id="fh5co-intro">
         <div class="row animate-box">
