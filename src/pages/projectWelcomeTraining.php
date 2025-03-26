@@ -92,8 +92,8 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
         <div class="col-md-12">
             <h2>Liens Utiles</h2>
             <ul>
-                <li><a href="https://www.votresite.com" target="_blank"><i class="fas fa-link"></i> Site Web du Projet</a></li>
-                <li><a href="https://github.com/votreusername/outil-signature" target="_blank"><i class="fab fa-github"></i> Repository GitHub</a></li>
+                <li><a href="https://welcometraining.bertadrien.fr/" target="_blank"><i class="fas fa-link"></i> Site Web du Projet</a></li>
+                <li><a href="https://github.com/BertheAdrien/WelcomeTraining" target="_blank"><i class="fab fa-github"></i> Repository GitHub</a></li>
                 <li><a href="https://www.votreurl.com/gantt" target="_blank"><i class="fas fa-calendar-alt"></i> Diagramme de GANTT</a></li>
             </ul>
         </div>
