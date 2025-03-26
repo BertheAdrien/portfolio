@@ -16,6 +16,7 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           script: |
             cd ${{ secrets.PROJECT_PATH }}
+            sudo chown -R $USER:$USER .git
             git reset --hard HEAD
             git clean -fd
             git config --global --add safe.directory ${{ secrets.PROJECT_PATH }}
