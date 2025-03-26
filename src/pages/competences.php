@@ -43,16 +43,25 @@ $pageTitle = 'Competences - Adrien Berthe';
     <p style="margin-bottom:20px; font-size:16px; overflow-y:auto; max-height:150px;">
         <?php 
         switch ($competence) {
+            case "Gérer le patrimoine informatique":
+                echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
+                break;
             case "Travailler en mode projet":
                 echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
                 echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 break;
             case "Mettre à disposition des utilisateurs un service informatique":
                 echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 break;
             case "Développer la présence en ligne de l'organisation":
                 echo 'Portfolio et autres projets web';
-                echo '<br><a href="?page=veille" style="color:#007BFF; text-decoration:underline;">Veille technologique</a>';
+                echo '<br><a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
+                break;
+            case "Organiser son développement professionnel":
+                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 break;
             default:
                 echo 'Description détaillée à venir...';
