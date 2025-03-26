@@ -60,7 +60,7 @@ $pageTitle = 'Competences - Adrien Berthe';
                 echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 break;
             case "Organiser son développement professionnel":
-                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
+                echo '<a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 break;
             default:
                 echo 'Description détaillée à venir...';
