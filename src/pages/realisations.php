@@ -17,6 +17,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                     <div class="col-md-12 animate-box ">
                     <h1>Calculette immobilière</h1>
+                    <h4>MyDigitalSchool</h4>
                         <a href="?page=calculette-imo" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
                             <div class="desc">
@@ -32,6 +33,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                 <div class="col-md-12 animate-box">
                     <h1>Welcome Training</h1>
+                    <h4>MyDigitalSchool</h4>
                         <a href="?page=project-welcome-training" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/WelcomeTraining.PNG" class="img-responsive" alt="Projet Welcome Training">
                             <div class="desc">
@@ -41,10 +43,11 @@ $pageTitle = 'Realisations - Adrien Berthe';
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 padding-right">
+            <div class="col-md-6">
                 <div class="row">
                     <div class="col-md-12 animate-box ">
                     <h1>ClickNEat</h1>
+                    <h4>MyDigitalSchool</h4>
                         <a href="?page=projectClickNEat" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/ClickNEat.PNG" class="img-responsive" alt="ClickNEat">
                             <div class="desc">
