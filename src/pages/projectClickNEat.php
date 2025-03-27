@@ -67,6 +67,7 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
                 <li>🖥️ HTML, CSS, JavaScript pour le front-end.</li>
                 <li>⚙️ PHP et MySQL pour le back-end et la gestion des données.</li>
                 <li>🛠️ VS Code et GitHub pour le développement et la gestion du projet.</li>
+                <li>🌐 Hébergement sur OVH.</li>
             </ul>
         </div>
     </div>

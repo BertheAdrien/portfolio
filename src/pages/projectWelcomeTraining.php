@@ -46,10 +46,10 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
         <div class="col-md-12">
             <h2>Tâches Réalisées</h2>
             <ul>
-                <li>Conception d'une base de données MySQL pour la gestion des présences et comptes utilisateurs.</li>
-                <li>Développement d'un espace de connexion sécurisé avec hachage des mots de passe.</li>
-                <li>Création d'un tableau de bord pour l'administrateur.</li>
-                <li>Test et validation du projet.</li>
+                <li>📌 Conception d'une base de données MySQL pour la gestion des présences et comptes utilisateurs.</li>
+                <li>📌 Développement d'un espace de connexion sécurisé avec hachage des mots de passe.</li>
+                <li>📌 Création d'un tableau de bord pour l'administrateur.</li>
+                <li>📌 Test et validation du projet.</li>
             </ul>
         </div>
     </div>
@@ -59,9 +59,10 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
         <div class="col-md-12">
             <h2>Outils Utilisés</h2>
             <ul>
-                <li>HTML, CSS, JavaScript pour le front-end.</li>
-                <li>PHP et MySQL pour le back-end et la gestion des données.</li>
-                <li>VS Code et Figma pour le développement et les maquettes.</li>
+                <li>🖥️ HTML, CSS, JavaScript pour le front-end.</li>
+                <li>⚙️ PHP et MySQL pour le back-end et la gestion des données.</li>
+                <li>🛠️ VS Code et GitHub pour le développement et la gestion du projet.</li>
+                <li>🌐 Hébergement sur OVH.</li>
             </ul>
         </div>
     </div>
