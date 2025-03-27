@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
+$pageTitle = 'ProjectClickNEat - Adrien Berthe';
 ?>
 
 <div class="container">

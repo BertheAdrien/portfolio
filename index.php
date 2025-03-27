@@ -17,7 +17,8 @@ $allowedPages = [
     'mentions-legales' => 'mentionslegale.php',
     'contact' => 'contact.php',
     'project-welcome-training' => 'projectWelcomeTraining.php',
-    'calculette-imo' => 'calculetteImo.php'
+    'calculette-imo' => 'calculetteImo.php',
+    'project-click-neat' => 'projectClickNEat.php'
 ];
 
 // Vérifier si la page demandée existe

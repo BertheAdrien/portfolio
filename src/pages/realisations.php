@@ -48,7 +48,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                     <div class="col-md-12 animate-box ">
                     <h1>ClickNEat</h1>
                     <h4>MyDigitalSchool</h4>
-                        <a href="?page=projectClickNEat" class="portfolio-grid border border-dark rounded">  
+                        <a href="?page=project-click-neat" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/ClickNEat.PNG" class="img-responsive" alt="ClickNEat">
                             <div class="desc">
                                 <h3>Application de réservation de restaurants</h3>
