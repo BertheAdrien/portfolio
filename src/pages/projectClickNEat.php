@@ -66,7 +66,6 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
             <ul>
                 <li>🖥️ HTML, CSS, JavaScript pour le front-end.</li>
                 <li>⚙️ PHP et MySQL pour le back-end et la gestion des données.</li>
-                <li>🎨 Figma pour la conception des interfaces.</li>
                 <li>🛠️ VS Code et GitHub pour le développement et la gestion du projet.</li>
             </ul>
         </div>

@@ -37,12 +37,13 @@ $pageTitle = 'VeilleMoteurGraph - Adrien Berthe';
         <div class="col-md-12">
             <h2>Outils Utilisés</h2>
             <ul>
-                <li><strong>Unreal Engine Marketplace</strong> : Pour télécharger des ressources (textures, animations, scripts) et des plugins.</li>
-                <li><strong>Unity Asset Store</strong> : Pour trouver des packs d'assets, des outils d'optimisation et des plugins utiles.</li>
-                <li><strong>GitHub</strong> : Pour suivre les mises à jour des moteurs, les discussions de la communauté et les repos de code.</li>
+                <li><strong>Unreal Engine feed</strong> : Pour suivre les actualités d'unreal engine.</li>
+                <li><strong>RSS feed unity Feedly</strong> : Pour suivre les actualités de unity.</li>
+                <li><strong>Reddit</strong> : Pour suivre les discussions de la communauté unity et unreal engine. <a href="https://www.reddit.com/r/unrealengine/">r/unrealengine</a> <a href="https://www.reddit.com/r/unity3d/">r/unity3d</a></li>
+                <li><strong>Twitter</strong> : Pour suivre les dernières actualités des moteurs de jeu.</li>
             </ul>
         </div>
-    </div>
+    </div>  
 
     <!-- Section Tableau de Veille -->
     <div class="row">
