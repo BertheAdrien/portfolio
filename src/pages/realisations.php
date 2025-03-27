@@ -41,6 +41,20 @@ $pageTitle = 'Realisations - Adrien Berthe';
                     </div>
                 </div>
             </div>
+            <div class="col-md-6 padding-right">
+                <div class="row">
+                    <div class="col-md-12 animate-box ">
+                    <h1>ClickNEat</h1>
+                        <a href="?page=projectClickNEat" class="portfolio-grid border border-dark rounded">  
+                            <img src="public/assets/images/ClickNEat.PNG" class="img-responsive" alt="ClickNEat">
+                            <div class="desc">
+                                <h3>Application de réservation de restaurants</h3>
+                            </div>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
         </div>
     </div>
 </div><!-- END container -->
