@@ -6,7 +6,7 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Outil de Signature en Ligne</h2>
+                <h2>ClickNEat - Réservation et Commande en Ligne</h2>
             </div>
         </div>
     </div>
@@ -18,10 +18,14 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
                 <div class="detail">
                     <div class="image-item animate-box cgi">
                         <h2>Contexte</h2>
-                        <p>Dans le cadre de ma deuxième année de BTS SIO, j'ai développé un outil de signature en ligne destiné aux établissements scolaires. Cet outil permet aux élèves et aux professeurs d'accéder à leurs emplois du temps, de signer numériquement leur présence à un cours en cours et de suivre l'historique des sessions.
-						Ce projet vise à offrir une gestion numérique complète des présences, avec un accès centralisé et sécurisé aux informations scolaires.</p>
-						<p>Un compte administrateur a également été implémenté pour gérer l'ensemble des données de l'application, y compris les comptes utilisateurs, les classes et les professeurs. L'administrateur peut modifier, ajouter ou supprimer des comptes et gérer les droits d'accès.
-						Les utilisateurs, quant à eux, peuvent se créer un compte directement via une page d'inscription. Toutes les données sont stockées dans une base de données relationnelle sécurisée.</p>
+                        <p>ClickNEat est une plateforme innovante permettant aux clients de réserver un restaurant en ligne et de commander directement leurs plats, qui seront prêts à leur arrivée.</p>
+                        <p>Le projet propose trois espaces distincts :</p>
+                        <ul>
+                            <li>📌 <strong>Un espace client</strong> : Réservation d'un restaurant et commande des plats à l'avance.</li>
+                            <li>📌 <strong>Un espace restaurateur</strong> : Gestion de la carte, des menus et des disponibilités.</li>
+                            <li>📌 <strong>Un espace administrateur</strong> : Gestion des restaurants, utilisateurs et commandes.</li>
+                        </ul>
+                        <p>Ce projet offre une solution pratique et efficace pour fluidifier la prise de commande et optimiser l'expérience des clients et restaurateurs.</p>
                     </div>    
                 </div>
             </div>
@@ -29,13 +33,13 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/WelcomeTrainingConnexion.PNG" class="img-responsive" alt="Interface de connexion">
+                    <img src="/public/assets/images/ClickNEatHome.PNG" class="img-responsive" alt="Page d'accueil ClickNEat">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/WelcomeTrainingAdmin.PNG" class="img-responsive" alt="Interface d'administration">
+                    <img src="/public/assets/images/ClickNEatAdmin.PNG" class="img-responsive" alt="Interface d'administration ClickNEat">
                 </div>
-				<div class="image-item animate-box">
-                    <img src="/public/assets/images/WelcomeTrainingSignature.PNG" class="img-responsive" alt="Interface d'administration">
+                <div class="image-item animate-box">
+                    <img src="/public/assets/images/ClickNEatReservation.PNG" class="img-responsive" alt="Espace de réservation client">
                 </div>
             </div>            
         </div>
@@ -46,10 +50,11 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
         <div class="col-md-12">
             <h2>Tâches Réalisées</h2>
             <ul>
-                <li>Conception d'une base de données MySQL pour la gestion des présences et comptes utilisateurs.</li>
-                <li>Développement d'un espace de connexion sécurisé avec hachage des mots de passe.</li>
-                <li>Création d'un tableau de bord pour l'administrateur.</li>
-                <li>Test et validation du projet.</li>
+                <li>📌 Développement d'une base de données MySQL pour la gestion des restaurants, plats et réservations.</li>
+                <li>📌 Création d'une interface utilisateur responsive et intuitive.</li>
+                <li>📌 Mise en place d'un système d'authentification pour les clients, restaurateurs et administrateurs.</li>
+                <li>📌 Développement d'un espace administrateur avec gestion complète des restaurants et utilisateurs.</li>
+                <li>📌 Tests et optimisation des performances.</li>
             </ul>
         </div>
     </div>
@@ -59,30 +64,27 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
         <div class="col-md-12">
             <h2>Outils Utilisés</h2>
             <ul>
-                <li>HTML, CSS, JavaScript pour le front-end.</li>
-                <li>PHP et MySQL pour le back-end et la gestion des données.</li>
-                <li>VS Code et Figma pour le développement et les maquettes.</li>
+                <li>🖥️ HTML, CSS, JavaScript pour le front-end.</li>
+                <li>⚙️ PHP et MySQL pour le back-end et la gestion des données.</li>
+                <li>🎨 Figma pour la conception des interfaces.</li>
+                <li>🛠️ VS Code et GitHub pour le développement et la gestion du projet.</li>
             </ul>
         </div>
     </div>
 
-	<div class="row">
+    <!-- Section Compétences -->
+    <div class="row">
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
-                <p>Analyser les objectifs et les modalités d'organisation d'un projet
-                <br>Planifier les activités
-                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
+                <li><strong><a href="?page=competences">Développer une application web sécurisée</a></strong></li>
+                <p>Implémentation de systèmes d'authentification et de gestion des utilisateurs.</p>
 
-                <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
-                <p>Réaliser les tests d'intégration et d'acceptation d'un service
-                <br>Déployer un service
-                <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
+                <li><strong><a href="?page=competences">Gérer une base de données relationnelle</a></strong></li>
+                <p>Conception d'une base de données optimisée pour la gestion des restaurants et commandes.</p>
 
-                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
-                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
-                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
+                <li><strong><a href="?page=competences">Développer l'expérience utilisateur</a></strong></li>
+                <p>Création d'une interface moderne et intuitive pour améliorer la navigation et la prise de commande.</p>
             </ul>
         </div>
     </div>
