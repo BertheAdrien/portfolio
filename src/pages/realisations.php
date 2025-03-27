@@ -29,7 +29,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 </div>
             </div>
 
-            <div class="col-md-6">
+            <div class="col-md-6 padding-right">
                 <div class="row">
                 <div class="col-md-12 animate-box">
                     <h1>Welcome Training</h1>
