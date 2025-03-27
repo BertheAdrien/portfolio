@@ -55,7 +55,20 @@ $pageTitle = 'Realisations - Adrien Berthe';
                             </div>
                         </a>
                     </div>
-                    
+                </div>
+            </div>
+            <div class="col-md-6 padding-right">
+                <div class="row">
+                <div class="col-md-12 animate-box">
+                    <h1>Portfolio</h1>
+                    <h4>MyDigitalSchool</h4>
+                        <a href="?page=project-portfolio" class="portfolio-grid border border-dark rounded">  
+                            <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Projet Portfolio">
+                            <div class="desc">
+                                <h3>Création de mon Portfolio</h3>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
