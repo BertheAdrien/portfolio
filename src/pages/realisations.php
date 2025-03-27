@@ -44,7 +44,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="row padding-right">
+                <div class="row">
                     <div class="col-md-6 animate-box">
                     <h1>ClickNEat</h1>
                     <h4>MyDigitalSchool</h4>
