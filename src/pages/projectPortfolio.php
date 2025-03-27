@@ -52,9 +52,6 @@ $pageTitle = 'Portfolio - Adrien Berthe';
             <ul>
                 <li>🛠️ Intégration et personnalisation d'un template HTML/CSS avec PHP.</li>
                 <li>🔗 Création d'un système de navigation dynamique.</li>
-                <li>📂 Organisation des projets sous forme de pages dynamiques en PHP.</li>
-                <li>📨 Développement d'un formulaire de contact fonctionnel.</li>
-                <li>🎨 Amélioration du design et de l'expérience utilisateur.</li>
                 <li>🚀 Hébergement du portfolio en ligne.</li>
             </ul>
         </div>
@@ -67,7 +64,6 @@ $pageTitle = 'Portfolio - Adrien Berthe';
             <ul>
                 <li>💻 HTML, CSS, JavaScript pour le front-end.</li>
                 <li>🖥️ PHP natif pour la gestion des pages et des données.</li>
-                <li>🎨 Figma pour la création et l'adaptation du design.</li>
                 <li>🛠️ VS Code et GitHub pour le développement et le versioning.</li>
                 <li>🌐 Hébergement sur OVH.</li>
             </ul>
