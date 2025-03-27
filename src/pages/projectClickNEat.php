@@ -33,13 +33,13 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/ClickNEatHome.PNG" class="img-responsive" alt="Page d'accueil ClickNEat">
+                    <img src="/public/assets/images/ClickNEat.PNG" class="img-responsive" alt="Page d'accueil ClickNEat">
                 </div>
                 <div class="image-item animate-box">
                     <img src="/public/assets/images/ClickNEatAdmin.PNG" class="img-responsive" alt="Interface d'administration ClickNEat">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/ClickNEatReservation.PNG" class="img-responsive" alt="Espace de réservation client">
+                    <img src="/public/assets/images/clickNEatReservation.PNG" class="img-responsive" alt="Espace de réservation client">
                 </div>
             </div>            
         </div>
