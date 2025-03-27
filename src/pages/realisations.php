@@ -43,9 +43,9 @@ $pageTitle = 'Realisations - Adrien Berthe';
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 padding-right">
                 <div class="row">
-                    <div class="col-md-6 animate-box">
+                    <div class="col-md-12 animate-box ">
                     <h1>ClickNEat</h1>
                     <h4>MyDigitalSchool</h4>
                         <a href="?page=projectClickNEat" class="portfolio-grid border border-dark rounded">  
