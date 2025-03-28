@@ -53,8 +53,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="image-item animate-box">
             <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Système d'Environnements et de Versions">
         </div>
-        <p>Lors de la modification d'un programme, il est nécessaire de suivre un processus rigoureux, et de faire attention en le montant pour ne pas écraser la version des collègues. </p>
-        <p>Il faut donc se concerter, savoir quelle version doit monter par rapport à une autre, faire du report de code si besoin, puis tester et valider la modification avant de la passer en PROD. </p>
+        <p>Lors de la modification d'un programme, il est nécessaire de suivre un processus rigoureux, et de faire attention en le montant pour ne pas écraser la version des collègues. Il faut donc se concerter, savoir quelle version doit monter par rapport à une autre, faire du report de code si besoin, puis tester et valider la modification avant de la passer en PROD. </p>
     </div>
 
     <div class="row">
