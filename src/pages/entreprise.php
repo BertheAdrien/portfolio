@@ -44,7 +44,7 @@ $pageTitle = 'Entreprise - Adrien Berthe';
             <h2>Fonctionnement du cadre de gestion CGMG</h2>
             <ul>
 				<li><strong>Les différentes parties prenantes</strong></li>
-				<p><img src="/public/assets/images/fonctionnementCGI.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
+				<p><img src="/public/assets/images/FonctionnementCGI.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
             </ul>
         </div>
 		</div>
