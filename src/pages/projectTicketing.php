@@ -6,7 +6,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Expérience en Entreprise</h2>
+                <h2>Le système de tickets chez CGI</h2>
             </div>
         </div>
     </div>
@@ -74,14 +74,19 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Gestion et résolution de tickets JIRA</a></strong></li>
-                <p>Capacité à analyser et exécuter des tâches selon les demandes du client.</p>
+                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
+                <p>Analyser les objectifs et les modalités d'organisation d'un projet
+                <br>Planifier les activités
+                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
 
-                <li><strong><a href="?page=competences">Correction et manipulation de données</a></strong></li>
-                <p>Modification des bases de données en respectant les contraintes métiers.</p>
+                <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
+                <p>Réaliser les tests d'intégration et d'acceptation d'un service
+                <br>Déployer un service
+                <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
 
-                <li><strong><a href="?page=competences">Développement et adaptation de composants</a></strong></li>
-                <p>Amélioration et mise à jour des composants produits pour l'assurance vie.</p>
+                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
+                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
+                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
             </ul>
         </div>
     </div>

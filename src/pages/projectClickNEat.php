@@ -77,14 +77,19 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Développer une application web sécurisée</a></strong></li>
-                <p>Implémentation de systèmes d'authentification et de gestion des utilisateurs.</p>
+                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
+                <p>Analyser les objectifs et les modalités d'organisation d'un projet
+                <br>Planifier les activités
+                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
 
-                <li><strong><a href="?page=competences">Gérer une base de données relationnelle</a></strong></li>
-                <p>Conception d'une base de données optimisée pour la gestion des restaurants et commandes.</p>
+                <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
+                <p>Réaliser les tests d'intégration et d'acceptation d'un service
+                <br>Déployer un service
+                <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
 
-                <li><strong><a href="?page=competences">Développer l'expérience utilisateur</a></strong></li>
-                <p>Création d'une interface moderne et intuitive pour améliorer la navigation et la prise de commande.</p>
+                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
+                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
+                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
             </ul>
         </div>
     </div>
