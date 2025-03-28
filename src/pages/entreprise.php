@@ -41,7 +41,7 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 			</div>
 			<div class="row">
         <div class="col-md-12">
-            <h2>Fonctionnement du cadre de gestion CGMG</h2>
+            <h2>Cheminement de la migration de bases de données</h2>
             <ul>
 				<li><strong>Les différentes parties prenantes</strong></li>
 				<p><img src="/public/assets/images/FonctionnementCGI.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
