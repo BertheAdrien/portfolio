@@ -60,7 +60,6 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="col-md-12">
             <h2>Suivi concret d'une modification de programme</h2>
             <ul>
-
             </ul>
         </div>
     </div>
@@ -94,7 +93,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Gestion et résolution de tickets JIRA</a></strong></li>
+                <li><strong><a href="?page=competences"></a></strong></li>
             </ul>
         </div>
     </div>
