@@ -7,6 +7,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
                 <h2>Expérience en Entreprise</h2>
+                <p>Dans mon activité professionnelle, je contribue à un projet de migration de bases de données pour CNP Assurances. Mon rôle consiste à traiter les demandes clients via JIRA et à assurer la correction et l'adaptation des données et composants métiers.</p>
             </div>
         </div>
     </div>
@@ -32,15 +33,26 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/JIRA_Ticket.PNG" class="img-responsive" alt="Exemple de ticket JIRA">
+                    <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Exemple de ticket JIRA">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/DatabaseUpdate.PNG" class="img-responsive" alt="Modification en base de données">
+                    <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Modification en base de données">
                 </div>
                 <div class="image-item animate-box">
                     <img src="/public/assets/images/ComponentEdit.PNG" class="img-responsive" alt="Modification de composant produit">
                 </div>
-            </div>            
+            </div>
+        </div>
+    </div>
+
+    <!-- Section Système d'Environnements et de Versions -->
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Système d'Environnements et de Versions</h2>
+            <p>Dans notre projet chez CGI, nous utilisons un système structuré d'environnements pour assurer le bon développement, test et mise en production des évolutions et corrections. Chaque modification suit un cycle rigoureux passant par plusieurs étapes :</p>
+        </div>
+        <div class="image-item animate-box">
+            <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Système d'Environnements et de Versions">
         </div>
     </div>
 
@@ -74,19 +86,25 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
-                <p>Analyser les objectifs et les modalités d'organisation d'un projet
-                <br>Planifier les activités
-                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
+                <li><strong><a href="?page=competences">Gestion et résolution de tickets JIRA</a></strong></li>
+                <p>Capacité à analyser et exécuter des tâches selon les demandes du client.</p>
 
-                <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
-                <p>Réaliser les tests d'intégration et d'acceptation d'un service
-                <br>Déployer un service
-                <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
+                <li><strong><a href="?page=competences">Correction et manipulation de données</a></strong></li>
+                <p>Modification des bases de données en respectant les contraintes métiers.</p>
 
-                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
-                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
-                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
+                <li><strong><a href="?page=competences">Développement et adaptation de composants</a></strong></li>
+                <p>Amélioration et mise à jour des composants produits pour l'assurance vie.</p>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Liens Utiles -->
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Liens Utiles</h2>
+            <ul>
+                <li><a href="https://www.cnp.fr/" target="_blank"><i class="fas fa-link"></i> CNP Assurances</a></li>
+                <li><a href="https://www.atlassian.com/software/jira" target="_blank"><i class="fas fa-link"></i> JIRA</a></li>
             </ul>
         </div>
     </div>
