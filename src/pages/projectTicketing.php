@@ -86,16 +86,5 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         </div>
     </div>
 
-    <!-- Liens Utiles -->
-    <div class="row">
-        <div class="col-md-12">
-            <h2>Liens Utiles</h2>
-            <ul>
-                <li><a href="https://www.cnp.fr/" target="_blank"><i class="fas fa-link"></i> CNP Assurances</a></li>
-                <li><a href="https://www.atlassian.com/software/jira" target="_blank"><i class="fas fa-link"></i> JIRA</a></li>
-            </ul>
-        </div>
-    </div>
-
 </div><!-- END container-wrap -->
 </html>

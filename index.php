@@ -19,7 +19,8 @@ $allowedPages = [
     'project-welcome-training' => 'projectWelcomeTraining.php',
     'calculette-imo' => 'calculetteImo.php',
     'project-click-neat' => 'projectClickNEat.php',
-    'project-portfolio' => 'projectPortfolio.php'
+    'project-portfolio' => 'projectPortfolio.php',
+    'project-ticketing' => 'projectTicketing.php'
 ];
 
 // Vérifier si la page demandée existe
