@@ -53,9 +53,19 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="image-item animate-box">
             <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Système d'Environnements et de Versions">
         </div>
+        <p>Lors de la modification d'un programme, il est nécessaire de suivre un processus rigoureux, et de faire attention en le montant pour ne pas écraser la version des collègues. </p>
+        <p>Il faut donc se concerter, savoir quelle version doit monter par rapport à une autre, faire du report de code si besoin, puis tester et valider la modification avant de la passer en PROD. </p>
     </div>
 
-    <!-- Section Tâches -->
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Suivi concret d'une modification de programme</h2>
+            <ul>
+
+            </ul>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-md-12">
             <h2>Tâches Réalisées</h2>
@@ -86,13 +96,6 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
             <h2>Compétences</h2>
             <ul>
                 <li><strong><a href="?page=competences">Gestion et résolution de tickets JIRA</a></strong></li>
-                <p>Capacité à analyser et exécuter des tâches selon les demandes du client.</p>
-
-                <li><strong><a href="?page=competences">Correction et manipulation de données</a></strong></li>
-                <p>Modification des bases de données en respectant les contraintes métiers.</p>
-
-                <li><strong><a href="?page=competences">Développement et adaptation de composants</a></strong></li>
-                <p>Amélioration et mise à jour des composants produits pour l'assurance vie.</p>
             </ul>
         </div>
     </div>
