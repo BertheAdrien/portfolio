@@ -32,19 +32,34 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/JIRA_Ticket.PNG" class="img-responsive" alt="Exemple de ticket JIRA">
+                    <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Exemple de ticket JIRA">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/DatabaseUpdate.PNG" class="img-responsive" alt="Modification en base de données">
-                </div>
-                <div class="image-item animate-box">
-                    <img src="/public/assets/images/ComponentEdit.PNG" class="img-responsive" alt="Modification de composant produit">
+                    <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Modification en base de données">
                 </div>
             </div>            
         </div>
     </div>
 
     <!-- Section Tâches -->
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Suivi de la vie d'un ticket</h2>
+            <p>Chaque ticket JIRA suit une vie structurée, passant par plusieurs étapes.</p>
+            <p>Lorsqu'un ticket est créé par le client et/ou les prestataires, il est initialisé avec une description, des priorités, et des états.</p>
+            <p>Ce ticket va ensuite être qualifié et affecté à une personne.</p>
+            <p>Ce ticket est ensuite suivi par le développeur qui va effectuer les modifications requises.</p>
+            <p>Une fois les modifications effectuées, le ticket est validé et passée à l'état "Clos" par le client.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Exemple concret avec le ticket N°#####</h2>
+            <p></p>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-md-12">
             <h2>Tâches Réalisées</h2>
@@ -74,19 +89,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
-                <p>Analyser les objectifs et les modalités d'organisation d'un projet
-                <br>Planifier les activités
-                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
-
-                <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
-                <p>Réaliser les tests d'intégration et d'acceptation d'un service
-                <br>Déployer un service
-                <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
-
-                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
-                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
-                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
+                <li><strong><a href="?page=competences">Répondre aux incidents et aux demandes d’assistance et d’évolution</a></strong></li>
             </ul>
         </div>
     </div>

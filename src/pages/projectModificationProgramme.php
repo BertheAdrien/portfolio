@@ -6,8 +6,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Expérience en Entreprise</h2>
-                <p>Dans mon activité professionnelle, je contribue à un projet de migration de bases de données pour CNP Assurances. Mon rôle consiste à traiter les demandes clients via JIRA et à assurer la correction et l'adaptation des données et composants métiers.</p>
+                <h2>Le système d'Environnements et Versions chez CGI </h2>
             </div>
         </div>
     </div>
