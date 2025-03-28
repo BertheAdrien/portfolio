@@ -40,8 +40,8 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 				</div>			
 			</div>
 			<div class="row">
-        <div class="col-md-12">
-		<p class="text-center font-size: 14px">Dans le cadre de mon expérience professionnelle, je travaille sur un projet de <strong>migration de bases de données</strong> en collaboration avec <strong>CNP Assurances</strong> dans le domaine de l'assurance vie.</p>
+        <div class="col-md-12 cgi">
+		<p class="text-center">Dans le cadre de mon expérience professionnelle, je travaille sur un projet de <strong>migration de bases de données</strong> en collaboration avec <strong>CNP Assurances</strong> dans le domaine de l'assurance vie.</p>
             <h2>Cheminement de la migration de bases de données</h2>
             <ul>
 				<p><img src="/public/assets/images/FonctionnementCGI.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
