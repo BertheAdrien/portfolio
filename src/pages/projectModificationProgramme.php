@@ -48,12 +48,12 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
     <div class="row">
         <div class="col-md-12">
             <h2>Système d'Environnements et de Versions</h2>
-            <p>Dans notre projet chez CGI, nous utilisons un système structuré d'environnements pour assurer le bon développement, test et mise en production des évolutions et corrections. Chaque modification suit un cycle rigoureux passant par plusieurs étapes :</p>
+            <p>Dans notre projet chez CGI, nous utilisons un système structuré d'environnements pour assurer le bon développement, test et mise en production des évolutions et corrections. Chaque modification de programme suit un cycle rigoureux passant par plusieurs étapes :</p>
         </div>
         <div class="image-item animate-box">
             <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Système d'Environnements et de Versions">
         </div>
-        <p>Lors de la modification d'un programme, il est nécessaire de suivre un processus rigoureux, et de faire attention en le montant pour ne pas écraser la version des collègues. Il faut donc se concerter, savoir quelle version doit monter par rapport à une autre, faire du report de code si besoin, puis tester et valider la modification avant de la passer en PROD. </p>
+        <p>Lors de la modification d'un programme, il est nécessaire de suivre un processus rigoureux, et de faire attention en le montant pour ne pas écraser la version des collègues. Il faut donc se concerter, savoir quelle version doit monter par rapport à une autre, faire du report de code si besoin, puis tester et valider la modification avant de la passer en PRE-PROD voir RPOD. </p>
     </div>
 
     <div class="row">
