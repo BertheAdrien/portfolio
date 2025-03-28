@@ -20,7 +20,8 @@ $allowedPages = [
     'calculette-imo' => 'calculetteImo.php',
     'project-click-neat' => 'projectClickNEat.php',
     'project-portfolio' => 'projectPortfolio.php',
-    'project-ticketing' => 'projectTicketing.php'
+    'project-ticketing' => 'projectTicketing.php',
+    'project-modification-programme' => 'projectModificationProgramme.php'
 ];
 
 // Vérifier si la page demandée existe

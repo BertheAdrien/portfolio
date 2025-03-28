@@ -7,7 +7,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
     <div id="fh5co-intro">
         <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2 col-md-pull-2">
-                <h2>Mes projets</h2>
+                <h2>Mes Réalisations</h2>
             </div>
         </div>
     </div>
@@ -17,7 +17,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                     <div class="col-md-12 animate-box ">
                     <h1>Calculette immobilière</h1>
-                    <h4>MyDigitalSchool</h4>
+                    <h4>Ecole</h4>
                         <a href="?page=calculette-imo" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
                             <div class="desc">
@@ -33,7 +33,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                 <div class="col-md-12 animate-box">
                     <h1>Welcome Training</h1>
-                    <h4>MyDigitalSchool</h4>
+                    <h4>Ecole</h4>
                         <a href="?page=project-welcome-training" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/WelcomeTraining.PNG" class="img-responsive" alt="Projet Welcome Training">
                             <div class="desc">
@@ -47,7 +47,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                     <div class="col-md-12 animate-box ">
                     <h1>ClickNEat</h1>
-                    <h4>MyDigitalSchool</h4>
+                    <h4>Ecole</h4>
                         <a href="?page=project-click-neat" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/ClickNEat.PNG" class="img-responsive" alt="ClickNEat">
                             <div class="desc">
@@ -61,7 +61,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                 <div class="col-md-12 animate-box">
                     <h1>Portfolio</h1>
-                    <h4>MyDigitalSchool</h4>
+                    <h4>Ecole</h4>
                         <a href="?page=project-portfolio" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Projet Portfolio">
                             <div class="desc">
@@ -75,11 +75,25 @@ $pageTitle = 'Realisations - Adrien Berthe';
                 <div class="row">
                     <div class="col-md-12 animate-box ">
                     <h1>Ticketing</h1>
-                    <h4>Entreprise CGI</h4>
+                    <h4>Entreprise</h4>
                         <a href="?page=project-ticketing" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/Ticketing.PNG" class="img-responsive" alt="Ticketing">
                             <div class="desc">
                                 <h3>Systeme de ticketing en entreprise</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 padding-right">
+                <div class="row">
+                    <div class="col-md-12 animate-box ">
+                    <h1>Modification de programme</h1>
+                    <h4>Entreprise</h4>
+                        <a href="?page=project-modification-programme" class="portfolio-grid border border-dark rounded">  
+                            <img src="public/assets/images/ModificationProgramme.PNG" class="img-responsive" alt="Modification de programme">
+                            <div class="desc">
+                                <h3>Systeme de modification de programme</h3>
                             </div>
                         </a>
                     </div>
