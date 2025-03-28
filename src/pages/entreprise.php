@@ -29,16 +29,24 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 
 				<div class="col-md-7 col-md-pull-4 image-content">
 					<div class="image-item  animate-box">
-						<img src="/public/assets/images/cgi-building-montreal.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+						<img src="/public/assets/images/cgi-building-montreal.jpg" class="img-responsive" alt="CGI Building">
 					</div>
 					<div class="image-item  animate-box">
-						<img src="/public/assets/images/map-geospatial-network.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+						<img src="/public/assets/images/map-geospatial-network.jpg" class="img-responsive" alt="Map Geospatial Network">
 					</div>
 					<div class="image-item  animate-box">
-						<img src="/public/assets/images/un-ecran-cobol.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+						<img src="/public/assets/images/un-ecran-cobol.jpg" class="img-responsive" alt="Screen COBOL">
 					</div>
 				</div>			
 			</div>
+			<div class="row">
+        <div class="col-md-12">
+            <h2>Fonctionnement du cadre de gestion CGMG</h2>
+            <ul>
+				<li><strong>Les différentes parties prenantes</strong></li>
+				<p><img src="/public/assets/images/fonctionnementCGI.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
+            </ul>
+        </div>
 		</div>
 	</div><!-- END container-wrap -->
 
