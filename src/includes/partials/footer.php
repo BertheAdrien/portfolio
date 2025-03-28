@@ -3,23 +3,13 @@
 <div class="container">
 		<footer id="fh5co-footer" role="contentinfo">
 			<div class="row">
-			<div class="col-md-3 col-md-push-1">
+			<div class="col-md-4 col-md-push-1">
 					<h4>Informations</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="?page=mentions-legales">Mentions légales</a></li>
 					</ul>
 				</div>
-				<div class="col-md-3 col-md-push-1">
-					<h4>Derniers Projets</h4>
-					<ul class="fh5co-footer-links">
-						<li><a href="?page=realisations#jbc-stadium">JBC Stadium</a></li>
-						<li><a href="?page=realisations#t-mobile-arena">T-Mobile Arena</a></li>
-						<li><a href="?page=realisations#target-field">Target Field</a></li>
-						<li><a href="?page=realisations#london-stadium">London Stadium</a></li>
-					</ul>
-				</div>
-
-				<div class="col-md-3 col-md-push-1">
+				<div class="col-md-4 col-md-push-1">
 					<h4>Liens</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="?page=accueil">Accueil</a></li>
@@ -31,7 +21,7 @@
 					</ul>
 				</div>
 
-				<div class="col-md-3">
+				<div class="col-md-4">
 					<h4>Contact</h4>
 					<ul class="fh5co-footer-links">
 						<li>31 Rue de Bellevue 72380 La Guierche</li>
