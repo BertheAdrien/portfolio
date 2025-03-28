@@ -76,7 +76,7 @@ $pageTitle = 'Realisations - Adrien Berthe';
                     <div class="col-md-12 animate-box ">
                     <h1>Ticketing</h1>
                     <h4>Entreprise CGI</h4>
-                        <a href="?page=project-pro-ticketing" class="portfolio-grid border border-dark rounded">  
+                        <a href="?page=project-ticketing" class="portfolio-grid border border-dark rounded">  
                             <img src="public/assets/images/Ticketing.PNG" class="img-responsive" alt="Ticketing">
                             <div class="desc">
                                 <h3>Systeme de ticketing en entreprise</h3>
