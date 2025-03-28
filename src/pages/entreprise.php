@@ -40,7 +40,7 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 				</div>			
 			</div>
 			<div class="row">
-        <div class="col-md-12 cgi">
+        <div class="col-md-12 animate-box detail">
 		<p class="text-center">Dans le cadre de mon expérience professionnelle, je travaille sur un projet de <strong>migration de bases de données</strong> en collaboration avec <strong>CNP Assurances</strong> dans le domaine de l'assurance vie.</p>
             <h2>Cheminement de la migration de bases de données</h2>
             <ul>
