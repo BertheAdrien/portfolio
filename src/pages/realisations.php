@@ -80,23 +80,10 @@ $pageTitle = 'Realisations - Adrien Berthe';
             <div class="row">
                 <div class="col-md-6 padding-right">
                     <div class="col-md-12 animate-box">
-                        <h1>Environnements et versions chez CGI</h1>
-                        <h4>Entreprise</h4>
-                        <a href="?page=project-modification-programme" class="portfolio-grid border border-dark rounded">  
-                            <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Modification de programme">
-                            <div class="desc">
-                                <h3>Système de modification de programme en entreprise</h3>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-6 padding-right">
-                    <div class="col-md-12 animate-box">
                         <h1>Ticketing chez CGI</h1>
                         <h4>Entreprise</h4>
                         <a href="?page=project-ticketing" class="portfolio-grid border border-dark rounded">  
-                            <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Ticketing">
+                            <img src="public/assets/images/JiraLogo.png" class="img-responsive" alt="Jira Logo">
                             <div class="desc">
                                 <h3>Système de ticketing en entreprise</h3>
                             </div>
