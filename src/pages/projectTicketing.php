@@ -114,6 +114,7 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
+                <li><strong><a href="?page=competences">Gérer le patrimoine informatique</a></strong></li>
                 <li><strong><a href="?page=competences">Répondre aux incidents et aux demandes d’assistance et d’évolution</a></strong></li>
             </ul>
         </div>
