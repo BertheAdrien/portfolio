@@ -32,10 +32,10 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Exemple de ticket JIRA">
+                    <img src="public/assets/images/JiraCapture.png" class="img-responsive" alt="Exemple de ticket JIRA">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Modification en base de données">
+                    <img src="public/assets/images/dicussionJIRA.jpg" class="img-responsive" alt="Modification en base de données">
                 </div>
             </div>            
         </div>
