@@ -66,8 +66,12 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
     </p>
 
     <p>
+      <img src="public/assets/images/eclypseModif.JPG" class="img-responsive" alt="Exemple de ticket JIRA">
+    </p>
+
+    <p>
       J’ai donc redescendu le programme en environnement de développement pour y apporter les modifications nécessaires 
-      (<a href="enterprise.php">voir schéma</a>). Par la suite, j’ai <strong>déployé la nouvelle version en environnement de test</strong>, puis exécuté le JCL associé afin de valider le bon fonctionnement de ma modification.
+      (<a href="?page=entreprise">voir schéma</a>). Par la suite, j’ai <strong>déployé la nouvelle version en environnement de test</strong>, puis exécuté le JCL associé afin de valider le bon fonctionnement de ma modification.
     </p>
 
     <p>
