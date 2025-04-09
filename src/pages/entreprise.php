@@ -53,7 +53,7 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 				Par ailleurs, une branche dédiée aux interventions d’urgence est prévue pour les cas de force majeure.</p>
             <ul class="text-center align-center !important">
 				<div class="image-item animate-box">
-					<p><img src="/public/assets/images/Environnement.drawio.png" class="img-responsive height: 150px !important;" alt="Fonctionnement du cadre de gestion CGMG"></p>
+					<p><img src="/public/assets/images/Environnement.drawio.png" class="img-responsive height: 30px !important;" alt="Fonctionnement du cadre de gestion CGMG"></p>
 				</div>
             </ul>
         </div>
