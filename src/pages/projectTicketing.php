@@ -53,6 +53,8 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
         </div>
     </div>
 
+    <h2>Exemple concret avec le ticket N°2370</h2>    
+
     <div class="row">
   <div class="col-md-12 animate-box detail">
     <p>
@@ -78,7 +80,6 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
     </p>
   </div>
 </div>
-
 
     <div class="row">
         <div class="col-md-12">
