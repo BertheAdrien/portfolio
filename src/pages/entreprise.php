@@ -51,8 +51,10 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 				<div class="col-md-12 animate-box detail">
 				<p class="text-center">Lorsqu’une modification est apportée à un programme, CGI suit un processus rigoureux pour assurer le passage du développement à la mise en production, illustré par le schéma ci-dessous.
 				Par ailleurs, une branche dédiée aux interventions d’urgence est prévue pour les cas de force majeure.</p>
-            <ul class="text-center">
-				<p><img src="/public/assets/images/Environnement.drawio.png" class="img-responsive max-width: 70% align-center !important" alt="Fonctionnement du cadre de gestion CGMG"></p>
+            <ul class="text-center align-center !important">
+				<div class="image-item animate-box">
+					<p><img src="/public/assets/images/Environnement.drawio.png" class="img-responsive max-width: 40% !important" alt="Fonctionnement du cadre de gestion CGMG"></p>
+				</div>
             </ul>
         </div>
 		</div>
