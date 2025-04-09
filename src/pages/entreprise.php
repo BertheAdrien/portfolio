@@ -52,7 +52,7 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 				<p class="text-center">Lorsqu’une modification est apportée à un programme, CGI suit un processus rigoureux pour assurer le passage du développement à la mise en production, illustré par le schéma ci-dessous.
 				Par ailleurs, une branche dédiée aux interventions d’urgence est prévue pour les cas de force majeure.</p>
             <ul>
-				<p><img src="/public/assets/images/Environnement.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
+				<p><img src="/public/assets/images/Environnement.drawio.png" class="img-responsive width-100" alt="Fonctionnement du cadre de gestion CGMG"></p>
             </ul>
         </div>
 		</div>
