@@ -63,7 +63,7 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 
 <style>
 .img-custom {
-  width: 80%; /* ou une taille fixe genre 600px */
+  width: 300px; /* ou une taille fixe genre 600px */
   max-width: 100%;
   height: auto;
   display: block;
