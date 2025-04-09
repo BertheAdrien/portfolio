@@ -41,8 +41,8 @@ $pageTitle = 'Entreprise - Adrien Berthe';
 			</div>
 			<div class="row">
         <div class="col-md-12 animate-box detail">
-		<p class="text-center">Dans le cadre de mon expérience professionnelle, je travaille sur un projet de <strong>migration de bases de données</strong> en collaboration avec <strong>CNP Assurances</strong> dans le domaine de l'assurance vie.</p>
-            <h2>Cheminement de la migration de bases de données</h2>
+				<p class="text-center">Dans le cadre de mon parcours professionnel, je participe à un projet de <strong>migration de bases de données</strong> mené en partenariat avec <strong>CNP Assurances</strong>, dans l’assurance vie. Suite à une demande de migration émise par un client de CNP, le processus suivant est mis en œuvre :</p>
+            <h2>Étapes du processus de migration des bases de données</h2>
             <ul>
 				<p><img src="/public/assets/images/FonctionnementCGI.drawio.png" class="img-responsive" alt="Fonctionnement du cadre de gestion CGMG"></p>
             </ul>
