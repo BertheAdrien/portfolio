@@ -54,11 +54,31 @@ $pageTitle = 'Expérience Pro - Adrien Berthe';
     </div>
 
     <div class="row">
-        <div class="col-md-12">
-            <h2>Exemple concret avec le ticket N°#####</h2>
-            <p></p>
-        </div>
-    </div>
+  <div class="col-md-12 animate-box detail">
+    <p>
+      À la suite de l’introduction d’un nouveau produit à migrer, intégrant une nouvelle fonctionnalité appelée <strong>EFI "BRV"</strong>, l’un de nos programmes n’était pas adapté à cette évolution et a généré une erreur sur plus d’un million de lignes. Ce programme a pour rôle de <strong>valider l’intégrité des données post-migration</strong> en exécutant une série de requêtes SQL dans un environnement COBOL.
+    </p>
+
+    <p>
+      Après attribution du ticket, j’ai procédé à une analyse approfondie, puis, en concertation avec l’équipe projet et le client, nous avons décidé d’<strong>exclure les EFI "BRV"</strong> de cette vérification, car ils ne sont pas concernés par ce contrôle.
+    </p>
+
+    <p>
+      J’ai donc redescendu le programme en environnement de développement pour y apporter les modifications nécessaires 
+      (<a href="enterprise.php">voir schéma</a>). Par la suite, j’ai <strong>déployé la nouvelle version en environnement de test</strong>, puis exécuté le JCL associé afin de valider le bon fonctionnement de ma modification.
+    </p>
+
+    <p>
+      Une fois les tests concluants, j’ai transféré le programme en environnement de qualification, où j’ai soumis une demande à l’équipe de préproduction pour qu’elle en prenne le relais. La préproduction procèdera aux tests de validation, avec mon accompagnement si besoin. 
+      Si tout est conforme, <strong>le programme sera ensuite promu en production</strong>, remplaçant ainsi l’ancienne version.
+    </p>
+
+    <p>
+      Enfin, une fois la livraison en production effectuée, <strong>le ticket est clôturé par le client</strong> et passe à l’état <em>"Clos"</em>.
+    </p>
+  </div>
+</div>
+
 
     <div class="row">
         <div class="col-md-12">
