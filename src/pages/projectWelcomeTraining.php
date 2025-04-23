@@ -107,19 +107,19 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
             <div class="doc-section" style="margin-bottom: 40px;">
                 <h4>📅 Diagramme de Gantt</h4>
                 <p>Voici le diagramme de Gantt représentant la planification du projet.</p>
-                <img src="/public/assets/docs/ClickNEatGantt.jfif" alt="Diagramme de Gantt ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
+                <img src="/public/assets/docs/WelcomeTrainingGANTT.jfif" alt="Diagramme de Gantt ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
             </div>
 
             <div class="doc-section" style="margin-bottom: 40px;">
                 <h4>🧩 Modèle Conceptuel de Données (MCD)</h4>
                 <p>Ce schéma illustre les entités et relations de la base de données.</p>
-                <img src="/public/assets/docs/ClickNEatMCD.png" alt="MCD ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
+                <img src="/public/assets/docs/WelcomeTrainingMCD.png" alt="MCD WelcomeTraining" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
             </div>
 
             <div class="doc-section" style="margin-bottom: 40px;">
                 <h4>🧭 Diagramme de Cas d’Utilisation</h4>
                 <p>Ce diagramme montre les principales interactions entre les utilisateurs et le système.</p>
-                <img src="/public/assets/docs/ClickNEatUseCase.png" alt="Diagramme de cas d’utilisation ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
+                <img src="/public/assets/docs/WelcomeTrainingUseCase.png" alt="Diagramme de cas d’utilisation WelcomeTraining" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
             </div>
 
         </div>
