@@ -66,14 +66,16 @@ $pageTitle = 'Calculette Immobilière - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-				<li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
-				<p>Analyser les objectifs et les modalités d'organisation d'un projet
-				<br>Planifier les activités</p>
-				<li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
-				<p>Réaliser les tests d'intégration et d'acceptation d'un service
-				<br>Déployer un service
-				<br>Accompagner les utilisateurs dans la mise en place d'un service</p>	
-			</ul>
+                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
+                <p>Participer à la valorisation de l'image de l'organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques.
+                <br>Participer à l'évolution d'un site Web exploitant les données de l'organisation.</p>
+
+                <li><strong><a href="?page=competences">Organiser son développement professionnel</a></strong></li>
+                <p>Mettre en place son environnement d'apprentissage personnel
+                    <br>Mettre en œuvre des outils et stratégies de veille informationnelle
+                    <br>Gérer son identité professionnelle
+                    <br>Développer son projet professionnel</p>
+            </ul>
         </div>
     </div>
 
@@ -83,18 +85,13 @@ $pageTitle = 'Calculette Immobilière - Adrien Berthe';
             <h2>Liens Utiles</h2>
             <ul>
                 <li>
-                    <a href="https://www.votresite.com" target="_blank">
+                    <a href="https://calculetteImo.bertadrien.fr" target="_blank">
                         <i class="fas fa-link"></i> Site Web du Projet
                     </a>
                 </li>
                 <li>
-                    <a href="https://github.com/votreusername/calculette-immobiliere" target="_blank">
+                    <a href="https://github.com/BertheAdrien/calculette_pret" target="_blank">
                         <i class="fab fa-github"></i> Repository GitHub
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.votreurl.com/gantt" target="_blank">
-                        <i class="fas fa-calendar-alt"></i> Planification du Projet (GANTT)
                     </a>
                 </li>
             </ul>
