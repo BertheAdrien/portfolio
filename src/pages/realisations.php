@@ -18,17 +18,17 @@ $pageTitle = 'Realisations - Adrien Berthe';
             <div class="row">
                 <div class="col-md-6 padding-right">
                     <div class="col-md-12 animate-box">
-                        <h1>Calculette immobilière</h1>
+                        <h1>ClickNEat</h1>
                         <h4>Ecole</h4>
-                        <a href="?page=calculette-imo" class="portfolio-grid border border-dark rounded">  
-                            <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
+                        <a href="?page=project-click-neat" class="portfolio-grid border border-dark rounded">  
+                            <img src="public/assets/images/ClickNEat.PNG" class="img-responsive" alt="ClickNEat">
                             <div class="desc">
-                                <h3>Outil de gestion de taux de prêts immobiliers</h3>
+                                <h3>Application de réservation de restaurants</h3>
                             </div>
                         </a>
                     </div>
                 </div>
-
+                
                 <div class="col-md-6 padding-right">
                     <div class="col-md-12 animate-box">
                         <h1>Welcome Training</h1>
@@ -46,38 +46,20 @@ $pageTitle = 'Realisations - Adrien Berthe';
             <div class="clearfix"></div>
 
             <!-- Deuxième ligne -->
-            <div class="row">
+
                 <div class="col-md-6 padding-right">
                     <div class="col-md-12 animate-box">
-                        <h1>ClickNEat</h1>
+                        <h1>Calculette immobilière</h1>
                         <h4>Ecole</h4>
-                        <a href="?page=project-click-neat" class="portfolio-grid border border-dark rounded">  
-                            <img src="public/assets/images/ClickNEat.PNG" class="img-responsive" alt="ClickNEat">
+                        <a href="?page=calculette-imo" class="portfolio-grid border border-dark rounded">  
+                            <img src="public/assets/images/calculettePret.PNG" class="img-responsive" alt="Calculette immobilière">
                             <div class="desc">
-                                <h3>Application de réservation de restaurants</h3>
+                                <h3>Outil de gestion de taux de prêts immobiliers</h3>
                             </div>
                         </a>
                     </div>
                 </div>
 
-                <div class="col-md-6 padding-right">
-                    <div class="col-md-12 animate-box">
-                        <h1>Portfolio</h1>
-                        <h4>Ecole</h4>
-                        <a href="?page=project-portfolio" class="portfolio-grid border border-dark rounded">  
-                            <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Projet Portfolio">
-                            <div class="desc">
-                                <h3>Création de mon Portfolio</h3>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="clearfix"></div>
-
-            <!-- Troisième ligne -->
-            <div class="row">
                 <div class="col-md-6 padding-right">
                     <div class="col-md-12 animate-box">
                         <h1>Ticketing chez CGI</h1>
@@ -90,6 +72,24 @@ $pageTitle = 'Realisations - Adrien Berthe';
                         </a>
                     </div>
                 </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <!-- Troisième ligne -->
+            <div class="row">
+                <div class="col-md-6 padding-right">
+                    <div class="col-md-12 animate-box">
+                        <h1>Portfolio</h1>
+                        <h4>Ecole</h4>
+                        <a href="?page=project-portfolio" class="portfolio-grid border border-dark rounded">  
+                            <img src="public/assets/images/Portfolio.PNG" class="img-responsive" alt="Projet Portfolio">
+                            <div class="desc">
+                                <h3>Création de mon Portfolio</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div> 
             </div>
 
             <div class="clearfix"></div>
