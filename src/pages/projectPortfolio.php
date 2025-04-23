@@ -33,13 +33,7 @@ $pageTitle = 'Portfolio - Adrien Berthe';
             <!-- Images de démonstration -->
             <div class="col-md-7 col-md-pull-4 image-content">
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/PortfolioHome.PNG" class="img-responsive" alt="Page d'accueil du portfolio">
-                </div>
-                <div class="image-item animate-box">
-                    <img src="/public/assets/images/PortfolioProjects.PNG" class="img-responsive" alt="Page des projets">
-                </div>
-                <div class="image-item animate-box">
-                    <img src="/public/assets/images/PortfolioContact.PNG" class="img-responsive" alt="Page de contact">
+                    <img src="/public/assets/images/Portfolio.PNG" class="img-responsive" alt="Page d'accueil du portfolio">
                 </div>
             </div>            
         </div>
@@ -75,14 +69,15 @@ $pageTitle = 'Portfolio - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Développer une application web en PHP</a></strong></li>
-                <p>Utilisation de PHP natif pour créer une structure de site dynamique.</p>
+                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
+                <p>Participer à la valorisation de l'image de l'organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques.
+                <br>Participer à l'évolution d'un site Web exploitant les données de l'organisation.</p>
 
-                <li><strong><a href="?page=competences">Intégrer et personnaliser un template existant</a></strong></li>
-                <p>Modification d'un template HTML/CSS pour l'adapter à mes besoins.</p>
-
-                <li><strong><a href="?page=competences">Mettre en ligne un site web</a></strong></li>
-                <p>Configuration et déploiement du portfolio sur un serveur OVH.</p>
+                <li><strong><a href="?page=competences">Organiser son développement professionnel</a></strong></li>
+                <p>Mettre en place son environnement d'apprentissage personnel
+                    <br>Mettre en œuvre des outils et stratégies de veille informationnelle
+                    <br>Gérer son identité professionnelle
+                    <br>Développer son projet professionnel</p>
             </ul>
         </div>
     </div>
