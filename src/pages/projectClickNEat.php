@@ -77,6 +77,12 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
+                <li><strong><a href="?page=competences">Gérer le patrimoine informatique</a></strong></li>
+                <p>Recenser et identifier les resources numériques
+                <br>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique
+                <br>Mettre en place et vérifier les niveaux d'habilitation associés à un service
+                <br>Gérer des sauvegardes</p>
+
                 <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
                 <p>Analyser les objectifs et les modalités d'organisation d'un projet
                 <br>Planifier les activités
@@ -101,10 +107,37 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
             <ul>
                 <li><a href="https://clickneat.bertadrien.fr/" target="_blank"><i class="fas fa-link"></i> Site Web du Projet</a></li>
                 <li><a href="https://github.com/BertheAdrien/ClickNEat" target="_blank"><i class="fab fa-github"></i> Repository GitHub</a></li>
-                <li><a href="#" target="_blank"><i class="fas fa-calendar-alt"></i> Diagramme de GANTT</a></li>
+                <li><a href="https://github.com/BertheAdrien/clickneat/tree/main/Documentation" target="_blank"><i class="fas fa-calendar-alt"></i> Documentation du projet</a></li>
             </ul>
         </div>
     </div>
+
+        <!-- Section Documents de Conception -->
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Documents de Conception</h2>
+
+            <div class="doc-section">
+                <h4>📅 Diagramme de Gantt</h4>
+                <p>Le diagramme de Gantt permet de visualiser la planification du projet dans le temps. Il montre les différentes tâches, leurs durées, et les dépendances éventuelles entre elles.</p>
+                <a href="/public/assets/docs/ClickNEatGantt.jfif" target="_blank"><i class="fas fa-chart-bar"></i> Voir le diagramme de Gantt</a>
+            </div>
+
+            <div class="doc-section" style="margin-top: 25px;">
+                <h4>🧩 Modèle Conceptuel de Données (MCD)</h4>
+                <p>Le MCD présente les entités principales du projet ainsi que les relations entre elles. Il sert de base pour la conception de la base de données.</p>
+                <a href="/public/assets/docs/ClickNEatMCD.drawio" target="_blank"><i class="fas fa-database"></i> Voir le MCD</a>
+            </div>
+
+            <div class="doc-section" style="margin-top: 25px;">
+                <h4>🧭 Diagramme de Cas d’Utilisation</h4>
+                <p>Ce diagramme UML décrit les différentes interactions entre les acteurs (utilisateurs, restaurateurs, administrateurs) et le système. Il aide à comprendre les fonctionnalités principales.</p>
+                <a href="/public/assets/docs/ClickNEatUseCase.drawio" target="_blank"><i class="fas fa-project-diagram"></i> Voir le diagramme de cas d’utilisation</a>
+            </div>
+
+        </div>
+    </div>
+
 
 </div><!-- END container-wrap -->
 </html>
