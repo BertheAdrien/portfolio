@@ -117,23 +117,32 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
         <div class="col-md-12">
             <h2>Documents de Conception</h2>
 
-            <div class="doc-section">
+    <!-- Section Documents de Conception -->
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Documents de Conception</h2>
+
+            <div class="doc-section" style="margin-bottom: 40px;">
                 <h4>📅 Diagramme de Gantt</h4>
-                <p>Le diagramme de Gantt permet de visualiser la planification du projet dans le temps. Il montre les différentes tâches, leurs durées, et les dépendances éventuelles entre elles.</p>
-                <a href="/public/assets/docs/ClickNEatGantt.jfif" target="_blank"><i class="fas fa-chart-bar"></i> Voir le diagramme de Gantt</a>
+                <p>Voici le diagramme de Gantt représentant la planification du projet.</p>
+                <img src="/public/assets/docs/ClickNEatGantt.jfif" alt="Diagramme de Gantt ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
             </div>
 
-            <div class="doc-section" style="margin-top: 25px;">
+            <div class="doc-section" style="margin-bottom: 40px;">
                 <h4>🧩 Modèle Conceptuel de Données (MCD)</h4>
-                <p>Le MCD présente les entités principales du projet ainsi que les relations entre elles. Il sert de base pour la conception de la base de données.</p>
-                <a href="/public/assets/docs/ClickNEatMCD.drawio" target="_blank"><i class="fas fa-database"></i> Voir le MCD</a>
+                <p>Ce schéma illustre les entités et relations de la base de données.</p>
+                <img src="/public/assets/docs/ClickNEatMCD.png" alt="MCD ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
             </div>
 
-            <div class="doc-section" style="margin-top: 25px;">
+            <div class="doc-section" style="margin-bottom: 40px;">
                 <h4>🧭 Diagramme de Cas d’Utilisation</h4>
-                <p>Ce diagramme UML décrit les différentes interactions entre les acteurs (utilisateurs, restaurateurs, administrateurs) et le système. Il aide à comprendre les fonctionnalités principales.</p>
-                <a href="/public/assets/docs/ClickNEatUseCase.drawio" target="_blank"><i class="fas fa-project-diagram"></i> Voir le diagramme de cas d’utilisation</a>
+                <p>Ce diagramme montre les principales interactions entre les utilisateurs et le système.</p>
+                <img src="/public/assets/docs/ClickNEatUseCase.png" alt="Diagramme de cas d’utilisation ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
             </div>
+
+        </div>
+    </div>
+
 
         </div>
     </div>
