@@ -71,19 +71,19 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
         <div class="col-md-12">
             <h2>Compétences</h2>
             <ul>
-                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
-                <p>Analyser les objectifs et les modalités d'organisation d'un projet
-                <br>Planifier les activités
-                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
+                <li><strong><a href="?page=competences">Gérer le patrimoine informatique</a></strong></li>
+                <p>Mettre en place et vérifier les niveaux d'habilitation associés à un service
+                <br>Gérer des sauvegardes
 
                 <li><strong><a href="?page=competences">Mettre à disposition des utilisateurs un service informatique</a></strong></li>
                 <p>Réaliser les tests d'intégration et d'acceptation d'un service
                 <br>Déployer un service
                 <br>Accompagner les utilisateurs dans la mise en place d'un service</p>
 
-                <li><strong><a href="?page=competences">Développer la présence en ligne de l'organisation</a></strong></li>
-                <p>Participer à l'évolution d'un site web exploitant les données de l'organisation
-                <br>Référencer les services en ligne de l'organisation et mesurer leur visibilité</p>
+                <li><strong><a href="?page=competences">Travailler en mode projet</a></strong></li>
+                <p>Analyser les objectifs et les modalités d'organisation d'un projet
+                <br>Planifier les activités
+                <br>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</p>
             </ul>
         </div>
     </div>
@@ -97,6 +97,31 @@ $pageTitle = 'ProjectWelcomeTraining - Adrien Berthe';
                 <li><a href="https://github.com/BertheAdrien/WelcomeTraining" target="_blank"><i class="fab fa-github"></i> Repository GitHub</a></li>
                 <li><a href="#" target="_blank"><i class="fas fa-calendar-alt"></i> Diagramme de GANTT</a></li>
             </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Documents de Conception</h2>
+
+            <div class="doc-section" style="margin-bottom: 40px;">
+                <h4>📅 Diagramme de Gantt</h4>
+                <p>Voici le diagramme de Gantt représentant la planification du projet.</p>
+                <img src="/public/assets/docs/ClickNEatGantt.jfif" alt="Diagramme de Gantt ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
+            </div>
+
+            <div class="doc-section" style="margin-bottom: 40px;">
+                <h4>🧩 Modèle Conceptuel de Données (MCD)</h4>
+                <p>Ce schéma illustre les entités et relations de la base de données.</p>
+                <img src="/public/assets/docs/ClickNEatMCD.png" alt="MCD ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
+            </div>
+
+            <div class="doc-section" style="margin-bottom: 40px;">
+                <h4>🧭 Diagramme de Cas d’Utilisation</h4>
+                <p>Ce diagramme montre les principales interactions entre les utilisateurs et le système.</p>
+                <img src="/public/assets/docs/ClickNEatUseCase.png" alt="Diagramme de cas d’utilisation ClickNEat" class="img-responsive" style="max-width:100%; border: 1px solid #ccc; padding: 10px;">
+            </div>
+
         </div>
     </div>
 

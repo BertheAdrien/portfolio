@@ -112,11 +112,6 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
         </div>
     </div>
 
-        <!-- Section Documents de Conception -->
-    <div class="row">
-        <div class="col-md-12">
-            <h2>Documents de Conception</h2>
-
     <!-- Section Documents de Conception -->
     <div class="row">
         <div class="col-md-12">
@@ -142,11 +137,6 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
 
         </div>
     </div>
-
-
-        </div>
-    </div>
-
 
 </div><!-- END container-wrap -->
 </html>
