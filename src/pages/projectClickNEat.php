@@ -39,7 +39,7 @@ $pageTitle = 'ProjectClickNEat - Adrien Berthe';
                     <img src="/public/assets/images/ClickNEatAdmin.PNG" class="img-responsive" alt="Interface d'administration ClickNEat">
                 </div>
                 <div class="image-item animate-box">
-                    <img src="/public/assets/images/clickNEatReservation.PNG" class="img-responsive" alt="Espace de réservation client">
+                    <img src="/public/assets/images/ClickNEatClient.PNG" class="img-responsive" alt="Espace de réservation client">
                 </div>
             </div>            
         </div>
