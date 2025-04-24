@@ -10,10 +10,10 @@ $pageTitle = 'Mentionslegale - Adrien Berthe';
     <title>Document</title>
 </head>
 <h1>Mentions Légales</h1>
-    <p>Les présentes conditions générales fixent les modalités d’utilisation du service web <strong>portfolio.elianeperol.com</strong>.</p>
+    <p>Les présentes conditions générales fixent les modalités d’utilisation du service web <strong>portfolio.bertadrien.fr</strong>.</p>
 
     <h2>Éditeur et responsable de publication</h2>
-    <p>Le site est édité par <strong>Eliane Perol</strong>, responsable de publication.</p>
+    <p>Le site est édité par <strong>Berthe Adrien</strong>, responsable de publication.</p>
     <p>Contact : <a href="mailto:berthe.adrien@yahoo.fr">berthe.adrien@yahoo.fr</a></p>
     <p>Ce site est un portfolio personnel non déclaré à la CNIL.</p>
 
