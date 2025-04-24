@@ -44,14 +44,13 @@ $pageTitle = 'Competences - Adrien Berthe';
         <?php 
         switch ($competence) {
             case "Gérer le patrimoine informatique":
-                echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
                 echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 echo '<br><a href="?page=project-click-neat" style="color:#007BFF; text-decoration:underline;">ClickNEat</a>';
+                echo '<br><a href="?page=project-ticketing" style="color:#007BFF; text-decoration:underline;">Ticketing chez CGI</a>';
                 break;
             case "Travailler en mode projet":
-                echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
+                echo '<a href="?page=project-click-neat" style="color:#007BFF; text-decoration:underline;">ClickNEat</a>';
                 echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
-                echo '<br><a href="?page=project-click-neat" style="color:#007BFF; text-decoration:underline;">ClickNEat</a>';
                 break;
             case "Mettre à disposition des utilisateurs un service informatique":
                 echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
@@ -60,14 +59,14 @@ $pageTitle = 'Competences - Adrien Berthe';
                 break;
             case "Développer la présence en ligne de l'organisation":
                 echo '<a href="?page=calculette-imo" style="color:#007BFF; text-decoration:underline;">Calculette Immobilière</a>';
-                echo '<br><a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
                 echo '<br><a href="?page=project-click-neat" style="color:#007BFF; text-decoration:underline;">ClickNEat</a>';
                 echo '<br><a href="?page=project-portfolio" style="color:#007BFF; text-decoration:underline;">Portfolio</a>';
                 break;
             case "Organiser son développement professionnel":
-                echo '<a href="?page=project-welcome-training" style="color:#007BFF; text-decoration:underline;">WelcomeTraining</a>';
-                echo '<br><a href="?page=project-click-neat" style="color:#007BFF; text-decoration:underline;">ClickNEat</a>';
                 echo '<br><a href="?page=project-portfolio" style="color:#007BFF; text-decoration:underline;">Portfolio</a>';
+                break;
+            case "Répondre aux incidents et aux demandes d'assistance et d'évolution":
+                echo '<a href="?page=project-ticketing" style="color:#007BFF; text-decoration:underline;">Ticketing chez CGI</a>';
                 break;
             default:
                 echo 'Description détaillée à venir...';
