@@ -11,17 +11,6 @@ $pageTitle = 'VeilleSQL - Adrien Berthe';
         </div>
     </div>
 
-    <div id="fh5co-portfolio">
-        <div class="row">
-            <!-- Images de démonstration -->
-            <div class="col-md-7 col-md-pull-4 image-content">
-                <div class="image-item animate-box">
-                    <img src="public/assets/images/database_intro.png" class="img-responsive" alt="Bases de données illustration">
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Section Définition et Importance -->
     <div class="row">
         <div class="col-md-12">

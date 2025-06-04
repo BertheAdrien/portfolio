@@ -11,17 +11,6 @@ $pageTitle = 'VeilleMoteurGraph - Adrien Berthe';
         </div>
     </div>
 
-    <div id="fh5co-portfolio">
-        <div class="row">
-            <!-- Image de démonstration -->
-            <div class="col-md-7 col-md-pull-4 image-content">
-                <div class="image-item animate-box">
-                    <img src="public/assets/images/game_engines.png" class="img-responsive" alt="Unreal Engine et Unity Illustration">
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Section Définition et Importance -->
     <div class="row">
         <div class="col-md-12">
@@ -93,7 +82,6 @@ $pageTitle = 'VeilleMoteurGraph - Adrien Berthe';
     <div class="row">
         <div class="col-md-12">
             <h2>Comparaison Approfondie : Unreal Engine vs Unity</h2>
-            <p>Voici une comparaison entre Unreal Engine et Unity, les deux moteurs de jeu les plus utilisés :</p>
             <ul>
                 <li><strong>Unreal Engine</strong> : Réputé pour ses rendus photoréalistes, Unreal est idéal pour les jeux AAA, les simulations réalistes et les expériences immersives en réalité virtuelle. Il utilise C++ comme langage principal, mais permet aussi l’utilisation de Blueprints, un système visuel pour créer des scripts.</li>
                 <li><strong>Unity</strong> : Plus accessible et flexible, Unity est largement utilisé pour les jeux mobiles, les jeux 2D et les applications VR. Il utilise C# comme langage de programmation et dispose d’un Asset Store complet qui permet de trouver facilement des ressources pour les jeux.</li>
